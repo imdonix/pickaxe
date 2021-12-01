@@ -1,0 +1,27 @@
+{
+  "name": "pickaxe",
+  "version": "1.0.0",
+  "description": "web scrapper collection",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imdonix/pickaxe.git"
+  },
+  "keywords": [
+    "scrapper"
+  ],
+  "author": "donix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imdonix/pickaxe/issues"
+  },
+  "homepage": "https://github.com/imdonix/pickaxe#readme",
+  "dependencies": {
+    "encoding": "^0.1.13",
+    "node-fetch": "^3.1.0",
+    "node-html-parser": "^5.1.0"
+  }
+}
