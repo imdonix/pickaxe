@@ -4,7 +4,7 @@
   "description": "web scrapper collection",
   "main": "app.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "jasmine --require=esm"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,10 @@
     "encoding": "^0.1.13",
     "node-fetch": "^3.1.0",
     "node-html-parser": "^5.1.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "jasmine": "^3.10.0"
   }
 }
