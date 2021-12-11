@@ -1,0 +1,2226 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="hu" data-ng-strict-di itemscope itemtype="http://schema.org/CollectionPage">
+<!--
+     _   __   __               __
+    | | /_/  / _| ___   __ _  /_/_ ___
+ _  | |/ _ \| |_ / _ \ / _` |/ _` / __|
+| |_| | (_) |  _| (_) | (_| | (_| \__ \
+ \___/ \___/|_|  \___/ \__, |\__,_|___/
+                       |___/
+Sz�val te is webfejleszt� vagy?
+Gyere hozz�nk dolgozni a J�fog�son:
+https://karrier.jofogas.hu/frontend-fejleszto/?source=jofogas
+-->
+	<head>
+		<meta charset="iso-8859-2">
+		<link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
+		<link rel="dns-prefetch" href="https://img.jofogas.hu"><link rel="dns-prefetch" href="https://static.jofogas.hu"><link rel="dns-prefetch" href="https://apiv2.jofogas.hu"><link rel="dns-prefetch" href="https://apiv3.jofogas.hu"><link rel="dns-prefetch" href="https://socket.jofogas.hu"><link rel="dns-prefetch" href="https://tiles.jofogas.hu"><link rel="dns-prefetch" href="https://shop-api.jofogas.hu"><link rel="dns-prefetch" href="https://www.jofogas.hu"><link rel="dns-prefetch" href="https://ingatlan.jofogas.hu"><link rel="dns-prefetch" href="https://auto.jofogas.hu"><link rel="dns-prefetch" href="https://allas.jofogas.hu"><link rel="dns-prefetch" href="https://www2.jofogas.hu"><link rel="dns-prefetch" href="https://searchparams.jofogas.hu"><link rel="dns-prefetch" href="https://api.jofogas.hu">
+		<link rel="preload" as="image" href="https://static.jofogas.hu/img/loading_redesign.gif"/>
+		<link rel="preload" as="font" type="font/woff2" href="https://static.jofogas.hu/fonts/materialdesignicons-webfont.woff2?v=3.9.97"/>
+		<title>Elad� iphone - Magyarorsz�g - J�fog�s</title>
+		<meta name="viewport" content="width=1024, initial-scale=0">
+		
+		
+			
+			
+			
+			
+			
+			  <meta name="robots" content="noarchive" />
+			  <meta name="googlebot" content="noarchive" />
+			
+		
+		<meta name="apple-mobile-web-app-status-bar-style" content="yes">
+		<meta name="mobile-web-app-capable" content="yes">
+		<link rel="icon" sizes="192x192" href="/img/JFG_logo_192x192.png">
+		<link rel="icon" sizes="194x194" href="/img/favicon.ico" type="image/x-icon">
+		<link rel="icon" sizes="32x32" href="/img/favicon.ico" type="image/x-icon">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="google-play-app" content="app-id=com.schibsted.iberica.jofogas">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="referrer" content="no-referrer-when-downgrade">
+		<base href="/">
+		<link rel="stylesheet" href="https://bmh.jofogas.hu//css-tracking.css" type="text/css" />
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2">
+<meta name="language" content="Hungarian">
+<link href="https://plus.google.com/u/0/+jofogashu" rel="publisher" />
+<meta name="google" content="nositelinkssearchbox">
+<meta name="keywords" content="" />
+<meta name="blocketapp" content="li">
+
+
+
+ 
+
+<link title="J�fog�s.hu" href="https://www.jofogas.hu/searchplugin.xml" type="application/opensearchdescription+xml" rel="search">
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="11082 iphone apr�hirdet�s az orsz�g eg�sz ter�let�n. Iphone �rak, iphone olcs�n, iphone v�s�rl�s a J�fog�son." />
+
+
+
+
+
+
+
+
+<link rel="next" href="https://www.jofogas.hu/magyarorszag?q=iphone&o=2" />
+
+
+
+
+
+<link rel="canonical" href="https://www.jofogas.hu/magyarorszag?q=iphone" />
+<meta property="og:url" content="https://www.jofogas.hu/magyarorszag?q=iphone" />
+
+
+
+		<link rel="stylesheet" href="https://static.jofogas.hu/css/vendor-475c27587e609455370213de9563ec8a.css" type="text/css">
+		
+		<link rel="stylesheet" href="https://static.jofogas.hu/css/app-caa5baa97fc1bc5d5812e4601430a5af.css" type="text/css">
+		
+		
+		
+		
+			
+				
+					
+									<link rel="preload" href="https://img.jofogas.hu/images/Veszek_iphone_X_XS_XR_11_11Pro_12_Mini_12_Pro_Max_13_Mini_13_Pro_Max__178111927263674.jpg" as="image" media="(max-width: 640px)">
+								
+							
+						
+									
+								
+							
+						
+					
+				
+					
+									<link rel="preload" href="https://img.jofogas.hu/images/Iphone_11_Pro_512_GB_Space_Gray_ujszeru_allapotban_694762069838591.jpg" as="image" media="(max-width: 640px)">
+								
+							
+						
+									
+								
+							
+						
+					
+				
+			
+		
+
+		<script>
+			var common_cookie_domain = '.jofogas.hu';
+		</script>
+		<script defer src="//try.abtasty.com/f1d0190ba9d1158909c360a456217f53.js"></script>
+		<script defer src="https://static.jofogas.hu/js/vendor-e50ab5744e5cfd8344e3bd5384df2fcb.js"></script>
+		
+		
+		
+		
+		
+		
+		
+    
+    <script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+        else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+            var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+            if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+            var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("4f7c0bc2-9c38-4c36-9394-d3620940e3c6")})();</script>
+    <script type="didomi/javascript"
+      src="https://try.abtasty.com/f1d0190ba9d1158909c360a456217f53.js"
+      data-vendor="c:ab-tasty"
+      async>
+    </script>
+    
+		<script defer src="https://static.jofogas.hu/templates/common/arrays_language.js?version=21015092"></script>
+		<script defer src="https://static.jofogas.hu/templates/common/arrays_v2.js?version=21015092"></script>
+		<script defer src="https://static.jofogas.hu/templates/common/categories.js?version=21015092"></script>
+		<script defer src="https://static.jofogas.hu/templates/common/friendly_params.js?version=21015092"></script>
+		
+		<script defer src="https://static.jofogas.hu/js/livi-30a882e018c4aecfd2cda35f3e325e35.js"></script>
+			
+		
+		<script defer class="app-js-from-gulp" src="https://static.jofogas.hu/js/app-7334ceb471d2442c3822340d063965e6.js"></script>
+		
+		
+
+		
+		<script>window.addEventListener('load', function(){
+	(function(){
+		var hfapp = angular.module('hfapp',[]);
+		var multibumpapp = angular.module('multiBumpApp', []);
+		var ribbonapp = angular.module('ribbonApp', []);
+	})();
+});
+</script>
+		
+		
+		
+		
+		
+			<script>
++function(a,p,P,b,y){a.appboy={};a.appboyQueue=[];for(var s="initialize destroy getDeviceId toggleAppboyLogging setLogger openSession changeUser requestImmediateDataFlush requestFeedRefresh subscribeToFeedUpdates requestContentCardsRefresh subscribeToContentCardsUpdates logCardImpressions logCardClick logCardDismissal logFeedDisplayed logContentCardsDisplayed logInAppMessageImpression logInAppMessageClick logInAppMessageButtonClick logInAppMessageHtmlClick subscribeToNewInAppMessages subscribeToInAppMessage removeSubscription removeAllSubscriptions logCustomEvent logPurchase isPushSupported isPushBlocked isPushGranted isPushPermissionGranted registerAppboyPushMessages unregisterAppboyPushMessages trackLocation stopWebTracking resumeWebTracking wipeData ab ab.DeviceProperties ab.User ab.User.Genders ab.User.NotificationSubscriptionTypes ab.User.prototype.getUserId ab.User.prototype.setFirstName ab.User.prototype.setLastName ab.User.prototype.setEmail ab.User.prototype.setGender ab.User.prototype.setDateOfBirth ab.User.prototype.setCountry ab.User.prototype.setHomeCity ab.User.prototype.setLanguage ab.User.prototype.setEmailNotificationSubscriptionType ab.User.prototype.setPushNotificationSubscriptionType ab.User.prototype.setPhoneNumber ab.User.prototype.setAvatarImageUrl ab.User.prototype.setLastKnownLocation ab.User.prototype.setUserAttribute ab.User.prototype.setCustomUserAttribute ab.User.prototype.addToCustomAttributeArray ab.User.prototype.removeFromCustomAttributeArray ab.User.prototype.incrementCustomUserAttribute ab.User.prototype.addAlias ab.User.prototype.setCustomLocationAttribute ab.InAppMessage ab.InAppMessage.SlideFrom ab.InAppMessage.ClickAction ab.InAppMessage.DismissType ab.InAppMessage.OpenTarget ab.InAppMessage.ImageStyle ab.InAppMessage.TextAlignment ab.InAppMessage.Orientation ab.InAppMessage.CropType ab.InAppMessage.prototype.subscribeToClickedEvent ab.InAppMessage.prototype.subscribeToDismissedEvent ab.InAppMessage.prototype.removeSubscription ab.InAppMessage.prototype.removeAllSubscriptions ab.InAppMessage.prototype.closeMessage ab.InAppMessage.Button ab.InAppMessage.Button.prototype.subscribeToClickedEvent ab.InAppMessage.Button.prototype.removeSubscription ab.InAppMessage.Button.prototype.removeAllSubscriptions ab.SlideUpMessage ab.ModalMessage ab.FullScreenMessage ab.HtmlMessage ab.ControlMessage ab.Feed ab.Feed.prototype.getUnreadCardCount ab.ContentCards ab.ContentCards.prototype.getUnviewedCardCount ab.Card ab.Card.prototype.dismissCard ab.ClassicCard ab.CaptionedImage ab.Banner ab.ControlCard ab.WindowUtils display display.automaticallyShowNewInAppMessages display.showInAppMessage display.showFeed display.destroyFeed display.toggleFeed display.showContentCards display.hideContentCards display.toggleContentCards sharedLib".split(" "),i=0;i<s.length;i++){for(var m=s[i],k=a.appboy,l=m.split("."),j=0;j<l.length-1;j++)k=k[l[j]];k[l[j]]=(new Function("return function "+m.replace(/\./g,"_")+"(){window.appboyQueue.push(arguments); return true}"))()}window.appboy.getUser=function(){return new window.appboy.ab.User};window.appboy.getCachedFeed=function(){return new window.appboy.ab.Feed};window.appboy.getCachedContentCards=function(){return new window.appboy.ab.ContentCards};(y=p.createElement(P)).type='text/javascript';
+y.src='https://js.appboycdn.com/web-sdk/3.2/appboy.min.js';
+y.async=0;y.defer=1;(b=p.getElementsByTagName(P)[0]).parentNode.insertBefore(y,b)
+}(window,document,'script');
+</script>
+
+		
+		
+<script>
+!function(t,e,n,s,a,c,i,o,p){t.AppsFlyerSdkObject=a,t.AF=t.AF||function(){(t.AF.q=t.AF.q||[]).push([Date.now()].concat(Array.prototype.slice.call(arguments)))},t.AF.id=t.AF.id||i,t.AF.plugins={},o=e.createElement(n),p=e.getElementsByTagName(n)[0],o.async=1,o.src="https://websdk.appsflyer.com?"+(c.length>0?"st="+c.split(",").sort().join(",")+"&":"")+(i.length>0?"af_id="+i:""),p.parentNode.insertBefore(o,p)}(window,document,"script",0,"AF","banners",{banners: {key: "0fdbe755-f07d-4998-b142-e895e7481852"}})
+</script>
+
+	</head>
+
+
+
+<body itemscope itemtype="http://schema.org/CollectionPage" class="_2021-12-11 no-js platform-unknown container_li  
+
+
+ general-body  " data-ng-controller="siteCtrl" >
+
+
+	
+	
+	<div id="adverticum_common_stat_zone_1_container" class=" adverticum_container adverticum_hide_label" > 
+		<div id="adverticum_common_stat_zone_1" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+
+	
+	
+	<div id="adverticum_common_stat_zone_2_container" class=" adverticum_container adverticum_hide_label" > 
+		<div id="adverticum_common_stat_zone_2" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+
+	
+	
+	<div id="adverticum_common_stat_zone_3_container" class=" adverticum_container adverticum_hide_label" > 
+		<div id="adverticum_common_stat_zone_3" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+
+	
+	
+	<div id="adverticum_common_stat_zone_4_container" class=" adverticum_container adverticum_hide_label" > 
+		<div id="adverticum_common_stat_zone_4" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+      <div data-category="0" class="css-tracking rubicon-1x1"></div>      <div data-price-range="0" class="css-tracking rubicon-1x1"></div>    <div data-combined-category="0" data-combined-price-range="0" class="css-tracking rubicon-1x1"></div>
+
+<script>
+document.body.className = document.body.className.replace('no-js', 'has-js');
+</script>
+<script type="text/template" id="unread_messages_count">
+<div class="unread-messages-count {{ if (unread_count == 0) { }}hidden{{ } }}">{{- unread_count}}</div>
+</script>
+
+
+<!-- utag_data obj generation -->
+<script>
+var utag_data = {
+acmh_category_path : "[{\"id\":\"\",\"name\":\"\"}]", 
+acmh_event_type : "view_listing", 
+acmh_items : "[{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Veszek iphone X XS XR 11 11Pro 12 Mini 12 Pro Max 13 Mini 13 Pro Max \",\"contentId\":\"117342576\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Iphone 11 Pro 512 GB Space Gray �jszer� �llapotban\",\"contentId\":\"124084894\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Apple iphone 6S �j �llapotban garanci�val\",\"contentId\":\"124040303\",\"publisherType\":\"pro\",\"hasDelivery\":\"true\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"iphone X XS XR 11 11 Pro 12 Mini 12 Pro Max 13 13 Pro Max Veszek\",\"contentId\":\"123225340\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Exkluz�v!Apple iphone 13 Pro �s Pro Max elad� Minden T�rhely �s Sz�n!\",\"contentId\":\"122066801\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Elad� egy teljesen �jszer� iphone 12 Pro, 256 Gb, arany, garanci�val\",\"contentId\":\"123987826\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Iphone SE 2020 256 GB product red kitun� �llapotban elad�!\",\"contentId\":\"123893965\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5022\",\"name\":\"Tokok �s kieg�sz�t�k\"}],\"name\":\"Eredeti Bontatlan Apple Iphone t�lt�k�bel lightning t�lt� k�bel\",\"contentId\":\"80397770\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5022\",\"name\":\"Tokok �s kieg�sz�t�k\"}],\"name\":\"Kijelz� Akci� Iphone 5S 5C SE 6 6S 6+ 6S+ 7 7+ 8 8+ X XR XS 11 12 LCD\",\"contentId\":\"72269212\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Elad� Iphone 12 pro Black 256gb\",\"contentId\":\"123991131\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5040\",\"name\":\"Vide�, audi� eszk�z�k\"},{\"id\":\"5046\",\"name\":\"R�di�, lemezj�tsz�\"}],\"name\":\"Sony hangsug�rz� iphone dokkol�s elad�\",\"contentId\":\"118709748\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5022\",\"name\":\"Tokok �s kieg�sz�t�k\"}],\"name\":\"�j Bontatlan Eredeti Apple iphone 5w usb t�lt�fej\",\"contentId\":\"118057302\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5022\",\"name\":\"Tokok �s kieg�sz�t�k\"}],\"name\":\"Bontatlan Eredeti Apple USB-C Type-C Lightning iphone t�lt�k�bel\",\"contentId\":\"113865537\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Elad� gy�ri f�ggetlen Apple iphone 11 Pro Space Gray 64 GB\",\"contentId\":\"124123764\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k! \",\"contentId\":\"124123759\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k!\",\"contentId\":\"124123741\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Elad� �j bontatlan Apple iphone 12 64GB- os k�sz�l�k!\",\"contentId\":\"124123657\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k! \",\"contentId\":\"124123588\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Elad� �j bontatlan Apple iphone 11 64GB-os k�sz�l�k! \",\"contentId\":\"124123368\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Iphone 11 Pro Max Midnight 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val\",\"contentId\":\"124123230\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k! \",\"contentId\":\"124123188\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Iphone 11 Pro, 64 GB, gold, f�ggetlen\",\"contentId\":\"124123177\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Elad� �j bontatlan Apple iphone 12 Pro 256GB-os k�sz�l�k! \",\"contentId\":\"124123033\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"Hib�tlan Iphone 11 Black 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val\",\"contentId\":\"124123023\",\"publisherType\":\"pro\",\"hasDelivery\":\"false\"},{\"category_path\":[{\"id\":\"5000\",\"name\":\"M�szaki cikkek, elektronika\"},{\"id\":\"5020\",\"name\":\"Mobiltelefon, kommunik�ci�\"},{\"id\":\"5021\",\"name\":\"Mobiltelefon\"}],\"name\":\"iphone 6S Nagyon megk�m�lt \",\"contentId\":\"124122999\",\"publisherType\":\"private\",\"hasDelivery\":\"false\"}]", 
+acmh_keywords : "iphone", 
+acmh_listing_origin : "", 
+acmh_location_region : "�sszes r�gi�", 
+acmh_num_results : "11082", 
+acmh_page_name : "4837783", 
+acmh_page_type : "listing", 
+acmh_search_extension : "{\"display\":\"List\",\"maxRank\":25,\"offset\":0,\"source\":\"MainSearch\"}", 
+acmh_search_id : "", 
+acmh_sorting : "PublishedTime", 
+environment : "prod", 
+event_name : "Search::Standard::listing_all", 
+gemius_category : "", 
+gemius_enabled : "0", 
+google_analytics_enabled : "0", 
+is_mobile : "0", 
+level2_site : "90", 
+mc : "iphone", 
+page_type_id : "3", 
+region_level1_id : "1", 
+search_ad_type : "1", 
+search_results_number : "11082", 
+searched_category : "", 
+searched_region : "3", 
+view_type_id : "1", 
+xiti_enabled : "0", 
+xiti_p : "Search::Standard::listing_all"
+
+};
+var urlParams = new URL(document.location);
+if (urlParams.searchParams.get('pls_campaign') !== null) {
+if (urlParams.searchParams.get('pls_source') === 'Sysmail') {
+utag_data.acmh_origin_channel = 'sysmail';
+} else {
+utag_data.acmh_origin_channel = 'push_notification';
+}
+utag_data.acmh_origin_campaign = urlParams.searchParams.get('pls_campaign');
+} {
+switch (urlParams.hash) {
+case "#channel=tile":
+utag_data.acmh_origin_channel = "tile";
+break;
+case "#channel=main_page_free_text":
+utag_data.acmh_origin_channel = "main_page_free_text";
+break;
+case "#channel=main_page_ai_button":
+utag_data.acmh_origin_channel = "main_page_ai_button";
+break;
+case "#channel=main_page_blue_bar":
+utag_data.acmh_origin_channel = "main_page_blue_bar";
+break;
+case "#channel=main_page_shop":
+utag_data.acmh_origin_channel = "main_page_shop";
+break;
+case "#channel=main_page_category_button":
+utag_data.acmh_origin_channel = "main_page_category_button";
+break;
+case "#channel=main_page_all_shops":
+utag_data.acmh_origin_channel = "main_page_all_shops";
+break;
+default:
+break;
+}
+}
+</script>
+<!-- Tealium search id generation -->
+<script>
+
+
+
+
+
+
+var cleanedUrl = "magyarorszag?q=iphone"
+var initialSearchUrl = decodeURIComponent("")
+var isNewSearch = initialSearchUrl !== cleanedUrl;
+window.addEventListener('load', function() {
+if (isNewSearch) {
+setCookie("searchUrl", cleanedUrl, 0.05, "/", common_cookie_domain);
+setCookie("searchid", getUuid(), 0.05, "/", common_cookie_domain);
+utag_data.acmh_search_id = getCookie("searchid");
+}
+});
+
+
+</script>
+<!-- Loading script asynchronously -->
+<script>
+(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/schibsted/jofogas/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.defer=true;d.charset="utf-8";
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+d.onload=function(){document.dispatchEvent(new CustomEvent("utag_loaded"));};
+})();
+</script>
+
+
+
+
+
+
+
+
+
+
+	
+	
+	<div id="adverticum_r_above_container" class="adverticum_gate_banner
+
+ adverticum_container" style="display:block; background-color:white"> 
+		<div id="adverticum_r_above" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+
+
+
+<div data-jofogas-alert-container class="alert-container"></div>
+
+<jfg-notifications></jfg-notifications>
+<div data-shadow-layer class="shadowLayer"></div>
+
+<div id="page-content" class="page-content " >
+<header data-jofogas-header="site.header" data-ng-class="{'opened': searchInput.opened}"  class=" jfg-page-header">
+	
+	
+	
+	<div data-view-size-helper></div>
+
+	<div class="container-fluid hidden-lg hidden-md position-relative">
+		<div data-ng-if="!searchInput.opened" class="">
+			<div class="ico">
+				<div class="burger-container">
+					<span id="side-menu-toggle" class="header-icon header-burger" data-ng-click="site.header.openSideMenu()">
+						<i class="center-block mdi mdi-navbar mdi-menu"></i>
+					</span>
+					<span data-jfg-unread-badge class="ng-hide unread-badge unread-badge-header"></span>
+				</div>
+			</div>
+			<div itemscope itemtype="http://schema.org/Brand" class="header-logo">
+				
+					<a href="https://www.jofogas.hu" class="svg" target="_self" title="J�fog�s">
+						<object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/jfg_logo_general.svg" class="jfg-svg-logo" tabindex="-1">
+							J�fog�s - T�bb mint 1,5 milli� term�k egy helyen
+						</object>
+					</a>
+				
+			</div>
+
+			
+				<div class="header-icons ico right-icons">
+					
+
+					
+						<a class="header-icon" target="_self" rel="nofollow"
+						   data-ng-click="onAiButtonClicked(false, 'https://www2.jofogas.hu/ai')"
+						   
+	>
+							<i class="center-block mdi mdi-navbar mdi-plus-circle-outline"></i>
+						</a>
+					<span class="magnifier header-icon" data-ng-click="searchInputToggle()">
+						<i class="center-block mdi mdi-navbar mdi-magnify"></i>
+					</span>
+					
+				</div>
+			
+		</div>
+		<div data-ng-class="{'hidden': !searchInput.opened}" class="hidden search-input-opened">
+			<form accept-charset="UTF-8" class="form-horizontal" data-instant-search-enabled="0" method="get" action="https://www.jofogas.hu/magyarorszag">
+				<input id="mobile-search-input" data-ng-blur="searchInputHide()" type="text" placeholder="�rd ide, mit keresel..." class="form-control" data-ng-model="search" autocomplete="on" name="q">
+				<button class="search" type="submit" title="{{ 'search' | jfgTranslate }}"><i class="center-block mdi mdi-navbar mdi-search mdi-magnify"></i></button>
+			</form>
+		</div>
+	</div>
+	<div class="container hidden-sm hidden-xs hidden-xsm">
+		<div class="header-container">
+			<div itemscope itemtype="http://schema.org/Brand" class="jofogas-logo">
+				
+					<a href="https://www.jofogas.hu" class="svg" target="_self" title="J�fog�s">
+						<object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/jfg_logo_general.svg" class="jfg-svg-logo" tabindex="-1">
+							J�fog�s - T�bb mint 1,5 milli� term�k egy helyen
+						</object>
+					</a>
+				
+			</div>
+			
+				<div class="navbar-search">
+					<form accept-charset="UTF-8" data-ng-if="site.header.desktop_searchbox" class="form-horizontal" data-instant-search-enabled="0" method="get" action="https://www.jofogas.hu/magyarorszag">
+						<input id="desktop-search-input" type="text" placeholder="�rd ide, mit keresel..." aria-label="�rd ide, mit keresel..." class="header-search form-control" data-ng-model="search" autocomplete="on" name="q">
+						<button class="search" type="submit" title="{{ 'search' | jfgTranslate }}"><i class="center-block mdi mdi-navbar mdi-search mdi-magnify"></i></button>
+					</form>
+				</div>
+			
+
+			<div class="link login-link">
+				
+					<a class="link ai-link" target="_self" rel="nofollow"
+				   		data-ng-click="onAiButtonClicked(false, 'https://www2.jofogas.hu/ai')"
+				   		
+	
+				   		tabindex="0">
+				   		Hirdet�sfelad�s
+					</a>
+				
+				
+
+				
+					<!-- not logged in -->
+					<a id="modal-register-open-desktop" data-ng-click="site.header.register(site.header.registerOriginElement)" tabindex="0">Regisztr�ci�</a> |
+					<a id="modal-login-open-desktop" data-ng-click="site.header.login('', site.header.loginOriginElement)" tabindex="0">Bel�p�s</a>
+					
+				
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	<div id="adverticum_stat_container" class=" adverticum_container adverticum_hide_label" > 
+		<div id="adverticum_stat" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+	
+	
+	<div id="adverticum_popup_container" class=" adverticum_container adverticum_hide_label" > 
+		<div id="adverticum_popup" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+</header>
+<div data-ng-class="{'hidden': !searchInput.opened}" class="hidden modal-backdrop search-input-is-open"></div>
+
+
+
+<div id="sidemenu" class="hidden hidden-md hidden-lg" data-ng-class="{'hidden':!site.header.menu}" data-ng-controller="sideMenuCtrl">
+	<div id="side-menu-close-button" class="back" data-ng-click="site.header.closeSideMenu()">
+		<i class="mdi mdi-sidemenu mdi-arrow mdi-arrow-left"></i>
+	</div>
+	
+		<div class="container personal-and-services">
+  <div class="row">
+		<span class="col-xs-10 col-xs-offset-2 col-xsm-9 col-xsm-offset-3 menu-item title">Saj�t</span>
+	</div>
+
+	<div class="row side-row">
+		<a id="modal-login-open-mobile" data-ng-click="site.header.login('', site.sideMenu.loginOriginElement)">
+			<div class="col-xs-2 col-xsm-3">
+				<i class="center-block mdi mdi-sidemenu mdi-login"></i>
+			</div>
+			<div class='col-xs-10 col-xsm-9 text left-block'>Bel�p�s</div>
+		</a>
+	</div>
+	<div class="row side-row">
+		<a id="modal-register-open-mobile" data-ng-click="site.header.register(site.sideMenu.registerOriginElement)">
+			<div class="col-xs-2 col-xsm-3">
+				<i class="center-block mdi mdi-sidemenu mdi-account-plus"></i>
+			</div>
+			<div class='col-xs-10 col-xsm-9 text left-block'>Regisztr�ci�</div>
+		</a>
+	</div>
+
+  <div class="row">
+		<span class="col-xs-10 col-xs-offset-2 col-xsm-9 col-xsm-offset-3 menu-item title">Szolg�ltat�sok</span>
+	</div>
+
+	<div class="row side-row">
+		<a href="https://docs.jofogas.hu/haztol-hazig/" target="_self">
+			<div class="col-xs-2 col-xsm-3">
+				<i class="center-block mdi mdi-sidemenu mdi-package-variant-closed"></i>
+			</div>
+			<div class='col-xs-10 col-xsm-9 text left-block'>H�zt�l-h�zig szolg�ltat�s</div>
+		</a>
+	</div>
+	<div class="row side-row">
+		<a href="https://docs.jofogas.hu" target="_self">
+			<div class="col-xs-2 col-xsm-3">
+				<i class="center-block mdi mdi-sidemenu mdi-tag-outline"></i>
+			</div>
+			<div class='col-xs-10 col-xsm-9 text left-block'>Kiemel�s</div>
+		</a>
+	</div>
+	<div class="row side-row">
+		<a href="https://www.jofogas.hu/rolunk" target="_self">
+			<div class="col-xs-2 col-xsm-3">
+				<i class="center-block mdi mdi-sidemenu mdi-information-outline"></i>
+			</div>
+			<div class='col-xs-10 col-xsm-9 text left-block'>R�lunk</div>
+		</a>
+	</div>
+</div>
+
+	
+</div>
+<div class="sidemenu-layer hidden" data-ng-class="{'hidden':!site.header.menu}" data-ng-click="site.header.closeSideMenu()">&nbsp;</div>
+
+
+          <div class="navigator-bar-container"> <div class="container"> <div data-jfg-breadcrumb class="navigator-bar"> <div class="breadcrumb-container"> <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb title"> <li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="breadcrumb__item"> <meta itemprop="position" content="1" />  <a itemprop="item" itemtype="http://schema.org/WebPage" rel="home" href="https://www.jofogas.hu" data-b_name="J�fog�s" title="jofogas.hu" target="_self" class="nohistory home_icon breadcrumb__link"> <span itemprop="name" class="breadcrumb__text">J�fog�s</span> </a> </li>        <li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="breadcrumb__item"> <meta itemprop="position" content="2" />  <a itemprop="item" itemtype="http://schema.org/WebPage" target="_self" title="iphone" data-b_name="iphone" href="https://www.jofogas.hu/magyarorszag?q=iphone" class="breadcrumb__link"> <span itemprop="name" class="breadcrumb__text">iphone</span> </a> </li>     </ol> </div> </div> </div> </div> <script> window.addEventListener('load', function(){ angular.module('jofogas').config(['copyTempProvider', function (copyTempProvider) { copyTempProvider.insert({ scope: 'breadcrumb', temps: { messagecenter_link: 'https://www2.jofogas.hu/fiok/postalada', my_ads_link: 'https://www2.jofogas.hu/fiok/hirdeteseim', agents_link: 'https://www2.jofogas.hu/fiok/referensek', credit_management_link: 'https://www2.jofogas.hu/fiok/kreditkezeles', general_base_url: 'https://www.jofogas.hu' } }); }]); }); </script> 
+
+
+<div id="bluebar" class="blue-bar">
+	<div class="container">
+		<blue-bar class="bluebar-container" data-subsite="general"></blue-bar>
+	</div>
+</div>
+
+
+
+<mobile-app-suggestor></mobile-app-suggestor>
+
+
+<div id="container_main" class="container_li ">
+<div id="main_content" class="container content_li" xtcz="main_content">
+
+
+
+        
+
+
+	
+	
+	
+		
+		
+		
+		
+		
+		
+	
+	
+		
+		
+		
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+      <div class="main-content listing   " data-ng-controller="ListCtrl">  <div class="col-xs-12 filter-header search-listing">  <span class="hidden-xs hidden-xsm hidden-sm col-md-3 filtering-text uppercase"> Sz�r� - R�szletes keres�</span> <div class="col-xs-12 col-md-7 all-private-company-tabs"> <div class="tab all active"> <span data-type-filter data-target-link="https://www.jofogas.hu/magyarorszag?q=iphone" title="Az �sszes hirdet�st mutassa" class="block type__filter"> <span>�sszes</span> </span> <span data-type-filter data-target-link="https://www.jofogas.hu/magyarorszag?q=iphone" title="Az �sszes hirdet�st mutassa" class="hidden-xs hidden-xsm hidden-sm count type__filter"> <span class="jfg-badge badge-count">11 082</span> </span> </div> <div class="tab private" data-ng-class="{'active':blueBarService.options.which_tab === 'p'}"> <span data-type-filter data-target-link="https://www.jofogas.hu/magyarorszag?q=iphone&f=p" title="Csak mag�nszem�ly hirdet�ket mutassa" class="type__filter"> <span>Mag�nszem�ly</span> </span> <span data-type-filter data-target-link="https://www.jofogas.hu/magyarorszag?q=iphone&f=p" title="Csak mag�nszem�ly hirdet�ket mutassa" class="hidden-xs hidden-xsm hidden-sm count type__filter"> <span class="jfg-badge badge-count">3 757</span> </span> </div> <div class="tab company hidden-xs hidden-xsm hidden-sm"> <span data-type-filter data-target-link="https://www.jofogas.hu/magyarorszag?q=iphone&f=c" title="Csak �zleti hirdet�sek" class="type__filter"> <span>�zleti</span> </span> <span data-type-filter data-target-link="https://www.jofogas.hu/magyarorszag?q=iphone&f=c" title="Csak �zleti hirdet�sek" class="hidden-xs hidden-xsm hidden-sm count type__filter"> <span class="jfg-badge badge-count">7 325</span> </span> </div>  <div class="tab shop hidden-xs hidden-xsm hidden-sm"> <span data-type-filter data-target-link="https://www.jofogas.hu/magyarorszag?q=iphone&f=s" title="Csak boltok hirdet�seit mutassa" class="type__filter"> <span>Bolt</span> </span> <span data-type-filter data-target-link="https://www.jofogas.hu/magyarorszag?q=iphone&f=s" title="Csak boltok hirdet�seit mutassa" class="hidden-xs hidden-xsm hidden-sm count type__filter"> <span class="jfg-badge badge-count">3</span> </span> </div>   </div>  <listing-sorting data-job-listing="false"></listing-sorting> </div>  <div class="listing-content row">  <div data-testid="save-search-button-container" class="list-left-column"> <div class="clearfix">  <jfg-sb data-ng-class="{'sbOpened': filtering.blockOpened, 'sbClosed': !filtering.blockOpened}" category="" view-type="listing" search-box-type="General"></jfg-sb>  </div>  <div class="save-search-sidebar-header"> Mentett keres�sek </div> <div class="save-search-button">
+  <div data-testid="save-search-button" data-ng-if="!saveSearchInfo.searchIsSaved" data-ng-click="blueBarService.options.open_save_search('sidebar')" class="btn btn-blue favorite-block bluebar-right-block type-{{blueBarService.options.type}}">
+  	<div class="save-search-icon-bluebar" data-ng-bind-html="saveSearchIcon"></div>
+  	<span class="text" data-ng-bind="blueBarService.placeholders[blueBarService.options.type].favorite"></span>
+  </div>
+  <div data-ng-if="saveSearchInfo.searchIsSaved" class="btn btn-blue favorite-block bluebar-right-block type-{{blueBarService.options.type}} disabled">
+  	<div class="save-search-icon-bluebar" data-ng-bind-html="savedSearchIcon"></div>
+  	<span class="text" data-ng-bind="blueBarService.placeholders[blueBarService.options.type].favoriteSaved"></span>
+  </div>
+</div>
+  <div class="hidden-xs hidden-xsm hidden-sm"> 
+	
+	<div id="adverticum_r_side_container" class=" adverticum_container" > 
+		<div id="adverticum_r_side" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+ <div id="adsense_r_side_sticky_container">
+    <ins class="adsbygoogle"
+    style="display:inline-block;width:140px;height:600px"
+    data-ad-client="ca-pub-1281056124831517"
+    data-ad-slot="9234292732"></ins>
+</div>
+ </div> </div>     <div class="right-column list-right-column" itemscope itemtype="http://schema.org/ItemList">   <meta itemprop="numberOfItems" content="11082" /> <meta itemprop="itemListOrder" content="Alap�rtelmezett" />  
+
+
+
+
+	
+
+
+
+
+
+
+  <div class="main-box ad-list-container"> <div class="col-xs-12 box block reListBox">  <div class="main-box-body search-list-container">           <div id="failover_msg_div"> 
+	
+
+ </div>       
+ <div class="list-items">    <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item gallery-items reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="1" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_117342576" class="general-item jfg-item reListItem  without-price-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Veszek_iphone_X_XS_XR_11_11Pro_12_Mini_12_Pro_Max_13_Mini_13_Pro_Max__178111927263674.jpg"/>   <a href="https://www.jofogas.hu/budapest/Veszek_iphone_X_XS_XR_11_11Pro_12_Mini_12_Pro_Max_13_Mini_13_Pro_Max__117342576.htm" title="Veszek iphone X XS XR 11 11Pro 12 Mini 12 Pro Max 13 Mini 13 Pro Max , 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Veszek_iphone_X_XS_XR_11_11Pro_12_Mini_12_Pro_Max_13_Mini_13_Pro_Max__178111927263674.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Veszek_iphone_X_XS_XR_11_11Pro_12_Mini_12_Pro_Max_13_Mini_13_Pro_Max__178111927263674.jpg" alt="Veszek iphone X XS XR 11 11Pro 12 Mini 12 Pro Max 13 Mini 13 Pro Max " onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Veszek iphone X XS XR 11 11Pro 12 Mini 12 Pro Max 13 Mini 13 Pro Max" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#117342576" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Veszek_iphone_X_XS_XR_11_11Pro_12_Mini_12_Pro_Max_13_Mini_13_Pro_Max__117342576.htm"  target="_self" data-adview-url data-listing-inapp >  Veszek iphone X XS XR 11 11Pro 12 Mini 12 Pro Max 13 Mini 13 Pro Max    </a>  </h3>  </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="1"></span> <span class="currency">  </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">tegnap, 11:24</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XIII. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="117342576" data-item-price="" data-subject="Veszek iphone X XS XR 11 11Pro 12 Mini 12 Pro Max 13 Mini 13 Pro Max " data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Veszek_iphone_X_XS_XR_11_11Pro_12_Mini_12_Pro_Max_13_Mini_13_Pro_Max__117342576.htm" data-main-photo-url="https://img.jofogas.hu/images/Veszek_iphone_X_XS_XR_11_11Pro_12_Mini_12_Pro_Max_13_Mini_13_Pro_Max__178111927263674.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item gallery-items reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="2" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124084894" class="general-item jfg-item reListItem  with-price-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Iphone_11_Pro_512_GB_Space_Gray_ujszeru_allapotban_694762069838591.jpg"/>   <a href="https://www.jofogas.hu/hajdu_bihar/Iphone_11_Pro_512_GB_Space_Gray_ujszeru_allapotban_124084894.htm" title="Iphone 11 Pro 512 GB Space Gray �jszer� �llapotban, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Iphone_11_Pro_512_GB_Space_Gray_ujszeru_allapotban_694762069838591.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Iphone_11_Pro_512_GB_Space_Gray_ujszeru_allapotban_694762069838591.jpg" alt="Iphone 11 Pro 512 GB Space Gray �jszer� �llapotban" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Iphone 11 Pro 512 GB Space Gray �jszer� �llapotban" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124084894" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/hajdu_bihar/Iphone_11_Pro_512_GB_Space_Gray_ujszeru_allapotban_124084894.htm"  target="_self" data-adview-url data-listing-inapp >  Iphone 11 Pro 512 GB Space Gray �jszer� �llapotban   </a>  </h3>  </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="259900">259 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">tegnap, 09:01</div>  </section>  <section class="reLiSection cityname ">     Hajd�-Bihar  , Debrecen      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		<div class="badge jfg-badge badge-box">Sz�ll�t�ssal is k�rheted</div>
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124084894" data-item-price="259900" data-subject="Iphone 11 Pro 512 GB Space Gray �jszer� �llapotban" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Hajd�-Bihar" data-url="https://www.jofogas.hu/hajdu_bihar/Iphone_11_Pro_512_GB_Space_Gray_ujszeru_allapotban_124084894.htm" data-main-photo-url="https://img.jofogas.hu/images/Iphone_11_Pro_512_GB_Space_Gray_ujszeru_allapotban_694762069838591.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item gallery-items reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="3" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124040303" class="general-item jfg-item reListItem  with-price-item discount-item company-item valid-phone-item boxed-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Apple_iphone_6S_uj_allapotban_garanciaval_555752069119379.jpg"/>   <a href="https://www.jofogas.hu/csongrad/Apple_iphone_6S_uj_allapotban_garanciaval_124040303.htm" title="Apple iphone 6S �j �llapotban garanci�val, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Apple_iphone_6S_uj_allapotban_garanciaval_555752069119379.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Apple_iphone_6S_uj_allapotban_garanciaval_555752069119379.jpg" alt="Apple iphone 6S �j �llapotban garanci�val" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Apple iphone 6S �j �llapotban garanci�val" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124040303" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/csongrad/Apple_iphone_6S_uj_allapotban_garanciaval_124040303.htm"  target="_self" data-adview-url data-listing-inapp >  Apple iphone 6S �j �llapotban garanci�val   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/csongrad/Apple_iphone_6S_uj_allapotban_garanciaval_124040303.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">9</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="44000">44 000</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>     </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">dec  9., 07:39</div>  </section>  <section class="reLiSection cityname ">     Csongr�d  , Szeged      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+			
+					<div class="badge jfg-badge badge-box">Ingyenes sz�ll�t�s</div>
+				
+			
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124040303" data-item-price="44000" data-subject="Apple iphone 6S �j �llapotban garanci�val" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Csongr�d" data-url="https://www.jofogas.hu/csongrad/Apple_iphone_6S_uj_allapotban_garanciaval_124040303.htm" data-main-photo-url="https://img.jofogas.hu/images/Apple_iphone_6S_uj_allapotban_garanciaval_555752069119379.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item gallery-items reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="4" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_123225340" class="general-item jfg-item reListItem  without-price-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/iphone_X_XS_XR_11_11_Pro_12_Mini_12_Pro_Max_13_13_Pro_Max_Veszek_908512061344590.jpg"/>   <a href="https://www.jofogas.hu/budapest/iphone_X_XS_XR_11_11_Pro_12_Mini_12_Pro_Max_13_13_Pro_Max_Veszek_123225340.htm" title="iphone X XS XR 11 11 Pro 12 Mini 12 Pro Max 13 13 Pro Max Veszek, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/iphone_X_XS_XR_11_11_Pro_12_Mini_12_Pro_Max_13_13_Pro_Max_Veszek_908512061344590.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/iphone_X_XS_XR_11_11_Pro_12_Mini_12_Pro_Max_13_13_Pro_Max_Veszek_908512061344590.jpg" alt="iphone X XS XR 11 11 Pro 12 Mini 12 Pro Max 13 13 Pro Max Veszek" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="iphone X XS XR 11 11 Pro 12 Mini 12 Pro Max 13 13 Pro Max Veszek" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#123225340" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/iphone_X_XS_XR_11_11_Pro_12_Mini_12_Pro_Max_13_13_Pro_Max_Veszek_123225340.htm"  target="_self" data-adview-url data-listing-inapp >  iphone X XS XR 11 11 Pro 12 Mini 12 Pro Max 13 13 Pro Max Veszek   </a>  </h3>  </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="1"></span> <span class="currency">  </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">dec  7., 14:55</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XIII. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="123225340" data-item-price="" data-subject="iphone X XS XR 11 11 Pro 12 Mini 12 Pro Max 13 13 Pro Max Veszek" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/iphone_X_XS_XR_11_11_Pro_12_Mini_12_Pro_Max_13_13_Pro_Max_Veszek_123225340.htm" data-main-photo-url="https://img.jofogas.hu/images/iphone_X_XS_XR_11_11_Pro_12_Mini_12_Pro_Max_13_13_Pro_Max_Veszek_908512061344590.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>      
+	
+	<div id="adverticum_r_inter_container" class=" adverticum_container" > 
+		<div id="adverticum_r_inter" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+        <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item gallery-items reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="5" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_122066801" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Exkluziv_Apple_iphone_13_Pro_es_Pro_Max_elado_Minden_Tarhely_Es_Szin__978182037250682.jpg"/>   <a href="https://www.jofogas.hu/budapest/Exkluziv_Apple_iphone_13_Pro_es_Pro_Max_elado_Minden_Tarhely_Es_Szin__122066801.htm" title="Exkluz�v!Apple iphone 13 Pro �s Pro Max elad� Minden T�rhely �s Sz�n!, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Exkluziv_Apple_iphone_13_Pro_es_Pro_Max_elado_Minden_Tarhely_Es_Szin__978182037250682.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Exkluziv_Apple_iphone_13_Pro_es_Pro_Max_elado_Minden_Tarhely_Es_Szin__978182037250682.jpg" alt="Exkluz�v!Apple iphone 13 Pro �s Pro Max elad� Minden T�rhely �s Sz�n!" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Exkluz�v!Apple iphone 13 Pro �s Pro Max elad� Minden T�rhely �s Sz�n!" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#122066801" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Exkluziv_Apple_iphone_13_Pro_es_Pro_Max_elado_Minden_Tarhely_Es_Szin__122066801.htm"  target="_self" data-adview-url data-listing-inapp >  Exkluz�v!Apple iphone 13 Pro �s Pro Max elad� Minden T�rhely �s Sz�n!   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/budapest/Exkluziv_Apple_iphone_13_Pro_es_Pro_Max_elado_Minden_Tarhely_Es_Szin__122066801.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">4</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="444990">444 990</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">dec  7., 06:29</div>  </section>  <section class="reLiSection cityname ">     Budapest  , II. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		<div class="badge jfg-badge badge-box">Sz�ll�t�ssal is k�rheted</div>
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="122066801" data-item-price="444990" data-subject="Exkluz�v!Apple iphone 13 Pro �s Pro Max elad� Minden T�rhely �s Sz�n!" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Exkluziv_Apple_iphone_13_Pro_es_Pro_Max_elado_Minden_Tarhely_Es_Szin__122066801.htm" data-main-photo-url="https://img.jofogas.hu/images/Exkluziv_Apple_iphone_13_Pro_es_Pro_Max_elado_Minden_Tarhely_Es_Szin__978182037250682.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>      
+	
+	<div id="adverticum_r_native_container" class=" adverticum_container" > 
+		<div id="adverticum_r_native" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+        <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item gallery-items reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="6" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_123987826" class="general-item jfg-item reListItem  with-price-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Elado_egy_teljesen_ujszeru_iphone_12_Pro__256_Gb__arany__garanciaval_441972068347198.jpg"/>   <a href="https://www.jofogas.hu/pest/Elado_egy_teljesen_ujszeru_iphone_12_Pro__256_Gb__arany__garanciaval_123987826.htm" title="Elad� egy teljesen �jszer� iphone 12 Pro, 256 Gb, arany, garanci�val, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Elado_egy_teljesen_ujszeru_iphone_12_Pro__256_Gb__arany__garanciaval_441972068347198.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Elado_egy_teljesen_ujszeru_iphone_12_Pro__256_Gb__arany__garanciaval_441972068347198.jpg" alt="Elad� egy teljesen �jszer� iphone 12 Pro, 256 Gb, arany, garanci�val" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Elad� egy teljesen �jszer� iphone 12 Pro, 256 Gb, arany, garanci�val" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#123987826" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/pest/Elado_egy_teljesen_ujszeru_iphone_12_Pro__256_Gb__arany__garanciaval_123987826.htm"  target="_self" data-adview-url data-listing-inapp >  Elad� egy teljesen �jszer� iphone 12 Pro, 256 Gb, arany, garanci�val   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/pest/Elado_egy_teljesen_ujszeru_iphone_12_Pro__256_Gb__arany__garanciaval_123987826.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">7</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="305000">305 000</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">dec  6., 19:31</div>  </section>  <section class="reLiSection cityname ">     Pest  , Dunaharaszti      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		<div class="badge jfg-badge badge-box">Sz�ll�t�ssal is k�rheted</div>
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="123987826" data-item-price="305000" data-subject="Elad� egy teljesen �jszer� iphone 12 Pro, 256 Gb, arany, garanci�val" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Pest" data-url="https://www.jofogas.hu/pest/Elado_egy_teljesen_ujszeru_iphone_12_Pro__256_Gb__arany__garanciaval_123987826.htm" data-main-photo-url="https://img.jofogas.hu/images/Elado_egy_teljesen_ujszeru_iphone_12_Pro__256_Gb__arany__garanciaval_441972068347198.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item gallery-items reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="7" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_123893965" class="general-item jfg-item reListItem  with-price-item discount-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Iphone_SE_2020_256_GB_product_red_kitun__allapotban_elado__886962067010782.jpg"/>   <a href="https://www.jofogas.hu/baranya/Iphone_SE_2020_256_GB_product_red_kitun__allapotban_elado__123893965.htm" title="Iphone SE 2020 256 GB product red kitun� �llapotban elad�!, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Iphone_SE_2020_256_GB_product_red_kitun__allapotban_elado__886962067010782.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Iphone_SE_2020_256_GB_product_red_kitun__allapotban_elado__886962067010782.jpg" alt="Iphone SE 2020 256 GB product red kitun� �llapotban elad�!" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Iphone SE 2020 256 GB product red kitun� �llapotban elad�!" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#123893965" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/baranya/Iphone_SE_2020_256_GB_product_red_kitun__allapotban_elado__123893965.htm"  target="_self" data-adview-url data-listing-inapp >  Iphone SE 2020 256 GB product red kitun� �llapotban elad�!   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/baranya/Iphone_SE_2020_256_GB_product_red_kitun__allapotban_elado__123893965.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">8</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="125000">125 000</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>     </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">dec  5., 20:32</div>  </section>  <section class="reLiSection cityname ">     Baranya  , P�cs      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="123893965" data-item-price="125000" data-subject="Iphone SE 2020 256 GB product red kitun� �llapotban elad�!" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Baranya" data-url="https://www.jofogas.hu/baranya/Iphone_SE_2020_256_GB_product_red_kitun__allapotban_elado__123893965.htm" data-main-photo-url="https://img.jofogas.hu/images/Iphone_SE_2020_256_GB_product_red_kitun__allapotban_elado__886962067010782.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item gallery-items reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="8" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_80397770" class="general-item jfg-item reListItem  with-price-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Eredeti_Bontatlan_Apple_Iphone_toltokabel_lightning_tolto_kabel_866051983138273.jpg"/>   <a href="https://www.jofogas.hu/budapest/Eredeti_Bontatlan_Apple_Iphone_toltokabel_lightning_tolto_kabel_80397770.htm" title="Eredeti Bontatlan Apple Iphone t�lt�k�bel lightning t�lt� k�bel, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Eredeti_Bontatlan_Apple_Iphone_toltokabel_lightning_tolto_kabel_866051983138273.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Eredeti_Bontatlan_Apple_Iphone_toltokabel_lightning_tolto_kabel_866051983138273.jpg" alt="Eredeti Bontatlan Apple Iphone t�lt�k�bel lightning t�lt� k�bel" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Eredeti Bontatlan Apple Iphone t�lt�k�bel lightning t�lt� k�bel" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#80397770" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Tokok �s kieg�sz�t�k" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Eredeti_Bontatlan_Apple_Iphone_toltokabel_lightning_tolto_kabel_80397770.htm"  target="_self" data-adview-url data-listing-inapp >  Eredeti Bontatlan Apple Iphone t�lt�k�bel lightning t�lt� k�bel   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/budapest/Eredeti_Bontatlan_Apple_Iphone_toltokabel_lightning_tolto_kabel_80397770.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">6</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="3000">3 000</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Tokok �s kieg�sz�t�k</div>   <div class="time">t�bb, mint egy h�napja</div>  </section>  <section class="reLiSection cityname ">     Budapest  , II. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="80397770" data-item-price="3000" data-subject="Eredeti Bontatlan Apple Iphone t�lt�k�bel lightning t�lt� k�bel" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Tokok �s kieg�sz�t�k" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Eredeti_Bontatlan_Apple_Iphone_toltokabel_lightning_tolto_kabel_80397770.htm" data-main-photo-url="https://img.jofogas.hu/images/Eredeti_Bontatlan_Apple_Iphone_toltokabel_lightning_tolto_kabel_866051983138273.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>      
+	
+	<div id="adverticum_r_li_inter_HA_container" class=" adverticum_container" > 
+		<div id="adverticum_r_li_inter_HA" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+        <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="9" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_72269212" class="general-item jfg-item reListItem  bombastic_price ribbon-item with-price-item discount-item valid-phone-item urgent-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Kijelzo_Akcio_Iphone_5S_5C_SE_6_6S_6__6S__7_7__8_8__X_XR_XS_11_12_LCD_819352030816195.jpg"/>   <a href="https://www.jofogas.hu/budapest/Kijelzo_Akcio_Iphone_5S_5C_SE_6_6S_6__6S__7_7__8_8__X_XR_XS_11_12_LCD_72269212.htm" title="Kijelz� Akci� Iphone 5S 5C SE 6 6S 6+ 6S+ 7 7+ 8 8+ X XR XS 11 12 LCD, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Kijelzo_Akcio_Iphone_5S_5C_SE_6_6S_6__6S__7_7__8_8__X_XR_XS_11_12_LCD_819352030816195.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Kijelzo_Akcio_Iphone_5S_5C_SE_6_6S_6__6S__7_7__8_8__X_XR_XS_11_12_LCD_819352030816195.jpg" alt="Kijelz� Akci� Iphone 5S 5C SE 6 6S 6+ 6S+ 7 7+ 8 8+ X XR XS 11 12 LCD" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection urgentArea"> <a href="https://www.jofogas.hu/budapest/Kijelzo_Akcio_Iphone_5S_5C_SE_6_6S_6__6S__7_7__8_8__X_XR_XS_11_12_LCD_72269212.htm"  target="_self" class=""> <urgent-ribbon data-static-urgent-type="bombastic_price"></urgent-ribbon> </a> </section>  <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Kijelz� Akci� Iphone 5S 5C SE 6 6S 6+ 6S+ 7 7+ 8 8+ X XR XS 11 12 LCD" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#72269212" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Tokok �s kieg�sz�t�k" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Kijelzo_Akcio_Iphone_5S_5C_SE_6_6S_6__6S__7_7__8_8__X_XR_XS_11_12_LCD_72269212.htm"  target="_self" data-adview-url data-listing-inapp >  Kijelz� Akci� Iphone 5S 5C SE 6 6S 6+ 6S+ 7 7+ 8 8+ X XR XS 11 12 LCD   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/budapest/Kijelzo_Akcio_Iphone_5S_5C_SE_6_6S_6__6S__7_7__8_8__X_XR_XS_11_12_LCD_72269212.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">6</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="2990">2 990</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>     </section>  <section class="reLiSection cat_time ">  <div class="category">Tokok �s kieg�sz�t�k</div>   <div class="time">tegnap, 22:01</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XVI. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		<div class="badge jfg-badge badge-box">Sz�ll�t�ssal is k�rheted</div>
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="72269212" data-item-price="2990" data-subject="Kijelz� Akci� Iphone 5S 5C SE 6 6S 6+ 6S+ 7 7+ 8 8+ X XR XS 11 12 LCD" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Tokok �s kieg�sz�t�k" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Kijelzo_Akcio_Iphone_5S_5C_SE_6_6S_6__6S__7_7__8_8__X_XR_XS_11_12_LCD_72269212.htm" data-main-photo-url="https://img.jofogas.hu/images/Kijelzo_Akcio_Iphone_5S_5C_SE_6_6S_6__6S__7_7__8_8__X_XR_XS_11_12_LCD_819352030816195.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="10" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_123991131" class="general-item jfg-item reListItem  with-price-item discount-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Elado_Iphone_12_pro_Black_256gb_267302068389364.jpg"/>   <a href="https://www.jofogas.hu/budapest/Elado_Iphone_12_pro_Black_256gb_123991131.htm" title="Elad� Iphone 12 pro Black 256gb, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Elado_Iphone_12_pro_Black_256gb_267302068389364.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Elado_Iphone_12_pro_Black_256gb_267302068389364.jpg" alt="Elad� Iphone 12 pro Black 256gb" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Elad� Iphone 12 pro Black 256gb" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#123991131" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Elado_Iphone_12_pro_Black_256gb_123991131.htm"  target="_self" data-adview-url data-listing-inapp >  Elad� Iphone 12 pro Black 256gb   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/budapest/Elado_Iphone_12_pro_Black_256gb_123991131.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">4</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="280000">280 000</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>     </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">tegnap, 19:06</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XVI. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		<div class="badge jfg-badge badge-box">Sz�ll�t�ssal is k�rheted</div>
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="123991131" data-item-price="280000" data-subject="Elad� Iphone 12 pro Black 256gb" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Elado_Iphone_12_pro_Black_256gb_123991131.htm" data-main-photo-url="https://img.jofogas.hu/images/Elado_Iphone_12_pro_Black_256gb_267302068389364.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="11" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_118709748" class="general-item jfg-item reListItem  with-price-item company-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Sony_hangsugarzo_iphone_dokkolos_elado_199621963835296.jpg"/>   <a href="https://www.jofogas.hu/budapest/Sony_hangsugarzo_iphone_dokkolos_elado_118709748.htm" title="Sony hangsug�rz� iphone dokkol�s elad�, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Sony_hangsugarzo_iphone_dokkolos_elado_199621963835296.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Sony_hangsugarzo_iphone_dokkolos_elado_199621963835296.jpg" alt="Sony hangsug�rz� iphone dokkol�s elad�" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Sony hangsug�rz� iphone dokkol�s elad�" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#118709748" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Vide�, audi� eszk�z�k / R�di�, lemezj�tsz�" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Sony_hangsugarzo_iphone_dokkolos_elado_118709748.htm"  target="_self" data-adview-url data-listing-inapp >  Sony hangsug�rz� iphone dokkol�s elad�   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/budapest/Sony_hangsugarzo_iphone_dokkolos_elado_118709748.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">2</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="9900">9 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">R�di�, lemezj�tsz�</div>   <div class="time">ma, 08:53</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XI. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		<div class="badge jfg-badge badge-box">Sz�ll�t�ssal is k�rheted</div>
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="118709748" data-item-price="9900" data-subject="Sony hangsug�rz� iphone dokkol�s elad�" data-category="M�szaki cikkek, elektronika" data-sub-category="Vide�, audi� eszk�z�k" data-leaf-category="R�di�, lemezj�tsz�" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Sony_hangsugarzo_iphone_dokkolos_elado_118709748.htm" data-main-photo-url="https://img.jofogas.hu/images/Sony_hangsugarzo_iphone_dokkolos_elado_199621963835296.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="12" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_118057302" class="general-item jfg-item reListItem  with-price-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Uj_Bontatlan_Eredeti_Apple_iphone_5w_usb_toltofej_120041949822192.jpg"/>   <a href="https://www.jofogas.hu/budapest/Uj_Bontatlan_Eredeti_Apple_iphone_5w_usb_toltofej_118057302.htm" title="�j Bontatlan Eredeti Apple iphone 5w usb t�lt�fej, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Uj_Bontatlan_Eredeti_Apple_iphone_5w_usb_toltofej_120041949822192.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Uj_Bontatlan_Eredeti_Apple_iphone_5w_usb_toltofej_120041949822192.jpg" alt="�j Bontatlan Eredeti Apple iphone 5w usb t�lt�fej" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="�j Bontatlan Eredeti Apple iphone 5w usb t�lt�fej" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#118057302" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Tokok �s kieg�sz�t�k" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Uj_Bontatlan_Eredeti_Apple_iphone_5w_usb_toltofej_118057302.htm"  target="_self" data-adview-url data-listing-inapp >  �j Bontatlan Eredeti Apple iphone 5w usb t�lt�fej   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/budapest/Uj_Bontatlan_Eredeti_Apple_iphone_5w_usb_toltofej_118057302.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">2</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="3000">3 000</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Tokok �s kieg�sz�t�k</div>   <div class="time">tegnap, 20:50</div>  </section>  <section class="reLiSection cityname ">     Budapest  , II. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="118057302" data-item-price="3000" data-subject="�j Bontatlan Eredeti Apple iphone 5w usb t�lt�fej" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Tokok �s kieg�sz�t�k" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Uj_Bontatlan_Eredeti_Apple_iphone_5w_usb_toltofej_118057302.htm" data-main-photo-url="https://img.jofogas.hu/images/Uj_Bontatlan_Eredeti_Apple_iphone_5w_usb_toltofej_120041949822192.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="13" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_113865537" class="general-item jfg-item reListItem  with-price-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Bontatlan_Eredeti_Apple_USB_C_Type_C_Lightning_iphone_toltokabel_404111979501270.jpg"/>   <a href="https://www.jofogas.hu/budapest/Bontatlan_Eredeti_Apple_USB_C_Type_C_Lightning_iphone_toltokabel_113865537.htm" title="Bontatlan Eredeti Apple USB-C Type-C Lightning iphone t�lt�k�bel, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Bontatlan_Eredeti_Apple_USB_C_Type_C_Lightning_iphone_toltokabel_404111979501270.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Bontatlan_Eredeti_Apple_USB_C_Type_C_Lightning_iphone_toltokabel_404111979501270.jpg" alt="Bontatlan Eredeti Apple USB-C Type-C Lightning iphone t�lt�k�bel" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Bontatlan Eredeti Apple USB-C Type-C Lightning iphone t�lt�k�bel" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#113865537" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Tokok �s kieg�sz�t�k" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Bontatlan_Eredeti_Apple_USB_C_Type_C_Lightning_iphone_toltokabel_113865537.htm"  target="_self" data-adview-url data-listing-inapp >  Bontatlan Eredeti Apple USB-C Type-C Lightning iphone t�lt�k�bel   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/budapest/Bontatlan_Eredeti_Apple_USB_C_Type_C_Lightning_iphone_toltokabel_113865537.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">4</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="3000">3 000</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Tokok �s kieg�sz�t�k</div>   <div class="time">tegnap, 20:50</div>  </section>  <section class="reLiSection cityname ">     Budapest  , II. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="113865537" data-item-price="3000" data-subject="Bontatlan Eredeti Apple USB-C Type-C Lightning iphone t�lt�k�bel" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Tokok �s kieg�sz�t�k" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Bontatlan_Eredeti_Apple_USB_C_Type_C_Lightning_iphone_toltokabel_113865537.htm" data-main-photo-url="https://img.jofogas.hu/images/Bontatlan_Eredeti_Apple_USB_C_Type_C_Lightning_iphone_toltokabel_404111979501270.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="14" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123764" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Elado_gyari_fuggetlen_Apple_iphone_11_Pro_Space_Gray_64_GB_716122070375584.jpg"/>   <a href="https://www.jofogas.hu/fejer/Elado_gyari_fuggetlen_Apple_iphone_11_Pro_Space_Gray_64_GB_124123764.htm" title="Elad� gy�ri f�ggetlen Apple iphone 11 Pro Space Gray 64 GB, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Elado_gyari_fuggetlen_Apple_iphone_11_Pro_Space_Gray_64_GB_716122070375584.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Elado_gyari_fuggetlen_Apple_iphone_11_Pro_Space_Gray_64_GB_716122070375584.jpg" alt="Elad� gy�ri f�ggetlen Apple iphone 11 Pro Space Gray 64 GB" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Elad� gy�ri f�ggetlen Apple iphone 11 Pro Space Gray 64 GB" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123764" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/fejer/Elado_gyari_fuggetlen_Apple_iphone_11_Pro_Space_Gray_64_GB_124123764.htm"  target="_self" data-adview-url data-listing-inapp >  Elad� gy�ri f�ggetlen Apple iphone 11 Pro Space Gray 64 GB   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/fejer/Elado_gyari_fuggetlen_Apple_iphone_11_Pro_Space_Gray_64_GB_124123764.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">7</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="180000">180 000</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:44</div>  </section>  <section class="reLiSection cityname ">     Fej�r  , Sz�kesfeh�rv�r      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123764" data-item-price="180000" data-subject="Elad� gy�ri f�ggetlen Apple iphone 11 Pro Space Gray 64 GB" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Fej�r" data-url="https://www.jofogas.hu/fejer/Elado_gyari_fuggetlen_Apple_iphone_11_Pro_Space_Gray_64_GB_124123764.htm" data-main-photo-url="https://img.jofogas.hu/images/Elado_gyari_fuggetlen_Apple_iphone_11_Pro_Space_Gray_64_GB_716122070375584.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="15" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123759" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___639412070379280.jpg"/>   <a href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___124123759.htm" title="Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k! , 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___639412070379280.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___639412070379280.jpg" alt="Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k! " onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k!" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123759" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___124123759.htm"  target="_self" data-adview-url data-listing-inapp >  Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k!    </a>  </h3>  </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="365900">365 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:44</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XI. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123759" data-item-price="365900" data-subject="Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k! " data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___124123759.htm" data-main-photo-url="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___639412070379280.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="16" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123741" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek__923102070378282.jpg"/>   <a href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek__124123741.htm" title="Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k!, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek__923102070378282.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek__923102070378282.jpg" alt="Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k!" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k!" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123741" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek__124123741.htm"  target="_self" data-adview-url data-listing-inapp >  Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k!   </a>  </h3>  </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="287900">287 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:43</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XI. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123741" data-item-price="287900" data-subject="Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k!" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek__124123741.htm" data-main-photo-url="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek__923102070378282.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="17" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123657" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_64GB__os_keszulek__474492070377596.jpg"/>   <a href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_64GB__os_keszulek__124123657.htm" title="Elad� �j bontatlan Apple iphone 12 64GB- os k�sz�l�k!, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_64GB__os_keszulek__474492070377596.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Elado_uj_bontatlan_Apple_iphone_12_64GB__os_keszulek__474492070377596.jpg" alt="Elad� �j bontatlan Apple iphone 12 64GB- os k�sz�l�k!" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Elad� �j bontatlan Apple iphone 12 64GB- os k�sz�l�k!" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123657" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_64GB__os_keszulek__124123657.htm"  target="_self" data-adview-url data-listing-inapp >  Elad� �j bontatlan Apple iphone 12 64GB- os k�sz�l�k!   </a>  </h3>  </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="285900">285 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:39</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XI. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123657" data-item-price="285900" data-subject="Elad� �j bontatlan Apple iphone 12 64GB- os k�sz�l�k!" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_64GB__os_keszulek__124123657.htm" data-main-photo-url="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_64GB__os_keszulek__474492070377596.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="18" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123588" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek___827212070375783.jpg"/>   <a href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek___124123588.htm" title="Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k! , 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek___827212070375783.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek___827212070375783.jpg" alt="Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k! " onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k!" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123588" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek___124123588.htm"  target="_self" data-adview-url data-listing-inapp >  Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k!    </a>  </h3>  </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="287900">287 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:38</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XI. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123588" data-item-price="287900" data-subject="Elad� �j bontatlan Apple iphone 12 64GB-os k�sz�l�k! " data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek___124123588.htm" data-main-photo-url="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_64GB_os_keszulek___827212070375783.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="19" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123368" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_11_64GB_os_keszulek___460132070368582.jpg"/>   <a href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_11_64GB_os_keszulek___124123368.htm" title="Elad� �j bontatlan Apple iphone 11 64GB-os k�sz�l�k! , 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_11_64GB_os_keszulek___460132070368582.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Elado_uj_bontatlan_Apple_iphone_11_64GB_os_keszulek___460132070368582.jpg" alt="Elad� �j bontatlan Apple iphone 11 64GB-os k�sz�l�k! " onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Elad� �j bontatlan Apple iphone 11 64GB-os k�sz�l�k!" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123368" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_11_64GB_os_keszulek___124123368.htm"  target="_self" data-adview-url data-listing-inapp >  Elad� �j bontatlan Apple iphone 11 64GB-os k�sz�l�k!    </a>  </h3>  </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="244900">244 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:31</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XI. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123368" data-item-price="244900" data-subject="Elad� �j bontatlan Apple iphone 11 64GB-os k�sz�l�k! " data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_11_64GB_os_keszulek___124123368.htm" data-main-photo-url="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_11_64GB_os_keszulek___460132070368582.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="20" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123230" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Iphone_11_Pro_Max_Midnight_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_825862070379466.jpg"/>   <a href="https://www.jofogas.hu/pest/Iphone_11_Pro_Max_Midnight_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_124123230.htm" title="Iphone 11 Pro Max Midnight 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Iphone_11_Pro_Max_Midnight_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_825862070379466.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Iphone_11_Pro_Max_Midnight_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_825862070379466.jpg" alt="Iphone 11 Pro Max Midnight 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Iphone 11 Pro Max Midnight 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123230" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/pest/Iphone_11_Pro_Max_Midnight_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_124123230.htm"  target="_self" data-adview-url data-listing-inapp >  Iphone 11 Pro Max Midnight 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/pest/Iphone_11_Pro_Max_Midnight_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_124123230.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">4</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="219900">219 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:26</div>  </section>  <section class="reLiSection cityname ">     Pest  , Isaszeg      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		<div class="badge jfg-badge badge-box">Sz�ll�t�ssal is k�rheted</div>
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123230" data-item-price="219900" data-subject="Iphone 11 Pro Max Midnight 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Pest" data-url="https://www.jofogas.hu/pest/Iphone_11_Pro_Max_Midnight_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_124123230.htm" data-main-photo-url="https://img.jofogas.hu/images/Iphone_11_Pro_Max_Midnight_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_825862070379466.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="21" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123188" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___281192070378983.jpg"/>   <a href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___124123188.htm" title="Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k! , 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___281192070378983.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___281192070378983.jpg" alt="Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k! " onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k!" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123188" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___124123188.htm"  target="_self" data-adview-url data-listing-inapp >  Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k!    </a>  </h3>  </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="365900">365 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:24</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XI. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123188" data-item-price="365900" data-subject="Elad� �j bontatlan Apple iphone 12 Pro 128GB-os k�sz�l�k! " data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___124123188.htm" data-main-photo-url="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_Pro_128GB_os_keszulek___281192070378983.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="22" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123177" class="general-item jfg-item reListItem  with-price-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Iphone_11_Pro__64_GB__gold__fuggetlen_443732070378667.jpg"/>   <a href="https://www.jofogas.hu/budapest/Iphone_11_Pro__64_GB__gold__fuggetlen_124123177.htm" title="Iphone 11 Pro, 64 GB, gold, f�ggetlen, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Iphone_11_Pro__64_GB__gold__fuggetlen_443732070378667.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Iphone_11_Pro__64_GB__gold__fuggetlen_443732070378667.jpg" alt="Iphone 11 Pro, 64 GB, gold, f�ggetlen" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Iphone 11 Pro, 64 GB, gold, f�ggetlen" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123177" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Iphone_11_Pro__64_GB__gold__fuggetlen_124123177.htm"  target="_self" data-adview-url data-listing-inapp >  Iphone 11 Pro, 64 GB, gold, f�ggetlen   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/budapest/Iphone_11_Pro__64_GB__gold__fuggetlen_124123177.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">10</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="210000">210 000</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:24</div>  </section>  <section class="reLiSection cityname ">     Budapest  , IV. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		<div class="badge jfg-badge badge-box">Sz�ll�t�ssal is k�rheted</div>
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123177" data-item-price="210000" data-subject="Iphone 11 Pro, 64 GB, gold, f�ggetlen" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Iphone_11_Pro__64_GB__gold__fuggetlen_124123177.htm" data-main-photo-url="https://img.jofogas.hu/images/Iphone_11_Pro__64_GB__gold__fuggetlen_443732070378667.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="23" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123033" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_Pro_256GB_os_keszulek___290142070377061.jpg"/>   <a href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_Pro_256GB_os_keszulek___124123033.htm" title="Elad� �j bontatlan Apple iphone 12 Pro 256GB-os k�sz�l�k! , 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_Pro_256GB_os_keszulek___290142070377061.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Elado_uj_bontatlan_Apple_iphone_12_Pro_256GB_os_keszulek___290142070377061.jpg" alt="Elad� �j bontatlan Apple iphone 12 Pro 256GB-os k�sz�l�k! " onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Elad� �j bontatlan Apple iphone 12 Pro 256GB-os k�sz�l�k!" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123033" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_Pro_256GB_os_keszulek___124123033.htm"  target="_self" data-adview-url data-listing-inapp >  Elad� �j bontatlan Apple iphone 12 Pro 256GB-os k�sz�l�k!    </a>  </h3>  </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="384900">384 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:17</div>  </section>  <section class="reLiSection cityname ">     Budapest  , XI. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123033" data-item-price="384900" data-subject="Elad� �j bontatlan Apple iphone 12 Pro 256GB-os k�sz�l�k! " data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/Elado_uj_bontatlan_Apple_iphone_12_Pro_256GB_os_keszulek___124123033.htm" data-main-photo-url="https://img.jofogas.hu/images/Elado_uj_bontatlan_Apple_iphone_12_Pro_256GB_os_keszulek___290142070377061.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="24" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124123023" class="general-item jfg-item reListItem  with-price-item company-item valid-phone-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/Hibatlan_Iphone_11_Black_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_503602070376667.jpg"/>   <a href="https://www.jofogas.hu/pest/Hibatlan_Iphone_11_Black_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_124123023.htm" title="Hib�tlan Iphone 11 Black 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val, 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/Hibatlan_Iphone_11_Black_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_503602070376667.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/Hibatlan_Iphone_11_Black_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_503602070376667.jpg" alt="Hib�tlan Iphone 11 Black 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val" onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="Hib�tlan Iphone 11 Black 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124123023" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/pest/Hibatlan_Iphone_11_Black_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_124123023.htm"  target="_self" data-adview-url data-listing-inapp >  Hib�tlan Iphone 11 Black 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val   </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/pest/Hibatlan_Iphone_11_Black_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_124123023.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">4</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="159900">159 900</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:16</div>  </section>  <section class="reLiSection cityname ">     Pest  , Isaszeg      </section> <section class="reLiSection badges ">  
+	
+	
+		<div class="badge jfg-badge badge-company_ad">�zleti</div>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		<div class="badge jfg-badge badge-box">Sz�ll�t�ssal is k�rheted</div>
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124123023" data-item-price="159900" data-subject="Hib�tlan Iphone 11 Black 64gb K�rtyaf�ggetlen Garanci�val Sz�ml�val" data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Pest" data-url="https://www.jofogas.hu/pest/Hibatlan_Iphone_11_Black_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_124123023.htm" data-main-photo-url="https://img.jofogas.hu/images/Hibatlan_Iphone_11_Black_64gb_Kartyafuggetlen_Garanciaval_Szamlaval_503602070376667.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  <section class="reLiSection validPhone" title="Hiteles�tett telefonsz�m"> <object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/verified_phone.svg" class="svg-icon" tabindex="-1">Hiteles�tett telefonsz�m</object> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>         <div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="col-xs-12 box listing list-item reListElement" data-tealium-ad-rank-sender > <meta itemprop="position" content="25" />                             
+
+
+
+<div itemscope itemprop="item" itemtype="http://schema.org/Product" id="listid_124122999" class="general-item jfg-item reListItem  with-price-item">   <div class="contentArea"> <section class="reLiSection imageBox">  <meta itemprop="image" content="https://img.jofogas.hu/images/iphone_6S_Nagyon_megkimelt__190472070376392.jpg"/>   <a href="https://www.jofogas.hu/budapest/iphone_6S_Nagyon_megkimelt__124122999.htm" title="iphone 6S Nagyon megk�m�lt , 1. K�p"  target="_self" class="" data-adview-url data-listing-inapp >   <picture class="li-default">        <source data-srcset="https://img.jofogas.hu/images/iphone_6S_Nagyon_megkimelt__190472070376392.jpg" media="(max-width: 640px)" />         <img loading="lazy" src="https://img.jofogas.hu/bigthumbs/iphone_6S_Nagyon_megkimelt__190472070376392.jpg" alt="iphone 6S Nagyon megk�m�lt " onerror='this.onerror=null; this.src="https://static.jofogas.hu/img/classified-placeholder-redesign2.png"' />       </picture>  </a>   </section>             <section class="reLiSection subjectWrapper"> <meta itemprop="name" content="iphone 6S Nagyon megk�m�lt" /> <meta itemprop="url" content="https://www.jofogas.hu/magyarorszag?q=iphone#124122999" />   <meta itemprop="category" content="M�szaki cikkek, elektronika / Mobiltelefon, kommunik�ci� / Mobiltelefon" />   <h3 class="item-title">  <a class="subject " href="https://www.jofogas.hu/budapest/iphone_6S_Nagyon_megkimelt__124122999.htm"  target="_self" data-adview-url data-listing-inapp >  iphone 6S Nagyon megk�m�lt    </a>  </h3>  </section>  <section class="reLiSection picNum"> <a class="picNumArea" href="https://www.jofogas.hu/budapest/iphone_6S_Nagyon_megkimelt__124122999.htm"  target="_self"> <span class="mdi mdi-camera"></span> <span class="picNumC">5</span> </a> </section>  <section class="reLiSection price " itemprop="offers" itemscope itemtype="https://schema.org/Offer">  <meta itemprop="availability" content="InStock" />  <meta itemprop="priceCurrency" content="HUF" /> <div class="priceBox">  <h3 class="item-price">      <span class="price-value" itemprop="price" content="31000">31 000</span> <span class="currency"> &nbsp;Ft </span>      </h3>  </div>  </section>  <section class="reLiSection cat_time ">  <div class="category">Mobiltelefon</div>   <div class="time">ma, 15:15</div>  </section>  <section class="reLiSection cityname ">     Budapest  , IX. ker�let      </section> <section class="reLiSection badges ">  
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+
+    </section> <section class="reLiSection shopUrl">    </section>     <section class="reLiSection favorite" > <div class="addToFav save-item"> <div data-fav-inspector data-list-id="124122999" data-item-price="31000" data-subject="iphone 6S Nagyon megk�m�lt " data-category="M�szaki cikkek, elektronika" data-sub-category="Mobiltelefon, kommunik�ci�" data-leaf-category="Mobiltelefon" data-region="Budapest" data-url="https://www.jofogas.hu/budapest/iphone_6S_Nagyon_megkimelt__124122999.htm" data-main-photo-url="https://img.jofogas.hu/images/iphone_6S_Nagyon_megkimelt__190472070376392.jpg" > <span class="mdi" data-ng-class="{'mdi-heart-outline': !ctrl.isAmongstFav(), 'mdi-heart': ctrl.isAmongstFav()}"></span> <span class="defname">Kedvenc</span> </div> </div> </section>  </div>  
+
+
+
+
+
+    
+    
+
+  </div>
+ </div>       </div>    </div> </div> 
+	
+	<div id="adverticum_roadblock_3_container" class=" adverticum_container" > 
+		<div id="adverticum_roadblock_3" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+ 
+	
+	<div id="adverticum_r_li_below_adsense_container" class=" adverticum_container" > 
+		<div id="adverticum_r_li_below_adsense" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+ 
+	
+	<div id="adverticum_m_adsense_below_teszt_container" class=" adverticum_container" > 
+		<div id="adverticum_m_adsense_below_teszt" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+ 
+	
+	<div id="adverticum_r_li_below_adsense_teszt_container" class=" adverticum_container" > 
+		<div id="adverticum_r_li_below_adsense_teszt" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+    <div class="save-search-list-bottom sslb-extra-margin-mobile"> <div class="save-search-list-bottom-container">
+	<div>
+		Kapj �rtes�t�st a k�v�ns�gaidnak <br class="br-hidden-on-mobile"/>
+		megfelel� <br class="br-hidden-on-desktop"/>
+		<span class="bold">�j hirdet�sekr�l</span>!
+	</div>
+	<div class="save-search-button">
+  <div data-testid="save-search-button" data-ng-if="!saveSearchInfo.searchIsSaved" data-ng-click="blueBarService.options.open_save_search('sidebar')" class="btn btn-blue favorite-block bluebar-right-block type-{{blueBarService.options.type}}">
+  	<div class="save-search-icon-bluebar" data-ng-bind-html="saveSearchIcon"></div>
+  	<span class="text" data-ng-bind="blueBarService.placeholders[blueBarService.options.type].favorite"></span>
+  </div>
+  <div data-ng-if="saveSearchInfo.searchIsSaved" class="btn btn-blue favorite-block bluebar-right-block type-{{blueBarService.options.type}} disabled">
+  	<div class="save-search-icon-bluebar" data-ng-bind-html="savedSearchIcon"></div>
+  	<span class="text" data-ng-bind="blueBarService.placeholders[blueBarService.options.type].favoriteSaved"></span>
+  </div>
+</div>
+
+	<div id="save-search-list-bottom-container-close" data-ng-click="hideFloatingBar()">
+	  <span class="mdi mdi-close"></span>
+	</div>
+</div>
+ </div>   <div class="col-xs-12 box pagination-block text-center"> <div class="main-box-footer"> 
+	
+	
+	
+		
+		
+		
+		
+		
+			
+		
+
+		
+		<ul class="pagination-lg pagination ad-list-pager ">
+			<li class="disabled">
+					<span class="ad-list-pager-item ad-list-pager-item-first">&laquo;</span>
+				</li>
+				<li class="disabled">
+					<span class="ad-list-pager-item ad-list-pager-item-prev">&lsaquo;</span>
+				</li>
+			
+			
+			
+			
+			<li class="active">
+				<span class="current-page-item">1</span>
+			</li>
+			
+				<li class="mobile-hidden">
+					<a class="ad-list-pager-page-number active-item js_hist_li js_hist" href="https://www.jofogas.hu/magyarorszag?q=iphone&o=2" target="_self">2</a>
+				</li>
+			
+			
+				<li class="mobile-hidden">
+					<a class="ad-list-pager-page-number active-item js_hist_li js_hist" href="https://www.jofogas.hu/magyarorszag?q=iphone&o=3" target="_self">3</a>
+				</li>
+			
+			
+				<li class="mobile-hidden">
+					<a class="ad-list-pager-page-number active-item js_hist_li js_hist" href="https://www.jofogas.hu/magyarorszag?q=iphone&o=4" target="_self">4</a>
+				</li>
+			
+			
+				<li>
+					<a class="ad-list-pager-item ad-list-pager-item-next active-item js_hist_li js_hist jofogasicon-right" href="https://www.jofogas.hu/magyarorszag?q=iphone&o=2" target="_self">&rsaquo;</a>
+				</li>
+				<li>
+					<a class="ad-list-pager-item ad-list-pager-item-last active-item js_hist_li js_hist" href="https://www.jofogas.hu/magyarorszag?q=iphone&o=444" target="_self">&raquo;</a>
+				</li>
+			
+		</ul>
+	
+
+ </div> </div>   </div> </div> </div> <mobile-filter-button toggle="openSearchBlock"></mobile-filter-button>  <script> window.addEventListener('load', function (){ angular.module('jofogas').config(['copyTempProvider', function (copyTempProvider) { copyTempProvider.insert({ scope: 'listing', temps: { type: 'listing', shop_type: '0', f: 'a', region_name: 'Orsz�gos', city_name: '', category_name: "", qs: '&q=iphone&w=3', q: "iphone", url_account_list_id: '', url_shop_list_id: '', appl: 'li', cg: '', re_page : 0, brand: { 2020: '', 2040: '', 5021: '', }, vehicle_model: { 2020: '', 2040: '' },  map_enabled : 1, result_count: 11082, } }); }]); }); </script> <script> window.addEventListener('load', function (){ angular.module('jofogas').config(['copyTempProvider', function (copyTempProvider) { copyTempProvider.insert({ scope: 'sbSearchBox', temps: { type: "listing", qs: "&w=3", account_list_id: '', url_shop_list_id: '', group_list_id: '', qs_full: '&q=iphone&w=3', w : "&w=3", sp : "", appl: "li", cg: "", q: "iphone" } }); }]); }); </script>  <script> var verboliaScript = document.createElement('script'); verboliaScript.defer=true; verboliaScript.src = 'https://jofogas.backend.verbolia.com/content/js/velw.min.js'; document.head.appendChild(verboliaScript); </script></div>
+
+<div class="clear"></div>
+
+</div>
+<div class="clear"></div>
+</div>
+<jfg-app-suggestor></jfg-app-suggestor>
+
+
+
+<footer class="jfg-page-footer ">
+	<div id="footer-menu" class="container-fluid">
+		<div class="row">
+			<div class="container-inner">
+				<div class="row useful-links">
+					<div data-accord-footer>
+						<div class="col-xsm-12 col-md-3">
+							<div class="col-xsm-12 block-title hidden-md hidden-lg" data-ng-click="accordFooterCtrl.setActiveFooterNumber(1)">
+								<span class="title">Szolg�ltat�saink</span>
+							</div>
+							<div class="col-xsm-12 block-links first-block" data-ng-class="{'block-links-open': accordFooterCtrl.activeFooterNumber === 1}">
+								<a href="https://docs.jofogas.hu/haztol-hazig/" target="_blank">H�zt�l-h�zig (GLS, HDT)</a>
+								<a href="https://foxpost.jofogas.hu" target="_blank">Foxpost csomagk�ld�s</a>
+								<a href="https://docs.jofogas.hu" target="_blank">Kiemel�s</a>
+								<a href="https://docs.jofogas.hu/talalkozasipontok/" target="_blank">Tal�lkoz�si pont</a>
+								<a href="https://ajanlataink.jofogas.hu/" target="_blank">Aj�nlataink �zleti hirdet�knek</a>
+							</div>
+						</div>
+						<div class="col-xsm-12 col-md-3">
+							<div class="col-xsm-12 block-title hidden-md hidden-lg" data-ng-click="accordFooterCtrl.setActiveFooterNumber(2)">
+								<span class="title">J�fog�s.hu</span>
+							</div>
+							<div class="col-xsm-12 block-links first-block" data-ng-class="{'block-links-open': accordFooterCtrl.activeFooterNumber === 2}">
+									<a href="https://ajanlataink.jofogas.hu/realestate.html" target="_blank">Aj�nlataink ingatlank�zvet�t�knek</a>
+									<a href="https://docs.jofogas.hu/szabalyzat/" target="_blank">Felhaszn�l�i szab�lyzat</a>
+									<a href="https://ugyfelszolgalat.jofogas.hu/extra-szolgaltatasok/szabalysertes-jelentese/" target="_blank">Biztons�gos v�s�rl�s</a>
+									<a href="https://adatvedelem.jofogas.hu/adatvedelmi-tajekoztato/" target="_blank">Adatv�delem</a>
+									<a href="https://hirdetesfeladas.jofogas.hu/" target="_blank">Hirdet�sfelad�s</a>
+								</div>
+							</div>
+							<div class="col-xsm-12 col-md-2">
+								<div class="col-xsm-12 block-links first-block" data-ng-class="{'block-links-open': accordFooterCtrl.activeFooterNumber === 2}">
+									<a href="https://www.jofogas.hu/oldalterkep" target="_blank">Oldalt�rk�p</a>
+									<a href="https://ugyfelszolgalat.jofogas.hu" target="_blank">�gyf�lszolg�lat</a>
+									<a href="https://www.jofogas.hu/rolunk" target="_blank">R�lunk</a>
+									<a id="open-cookie-settings" href="javascript:Didomi.preferences.show()">S�ti be�ll�t�sok</a>
+									<a href="https://adatvedelem.jofogas.hu/sutikezeles/" target="_blank">S�ti kezel�s</a>
+								</div>
+							</div>
+							<div class="col-xsm-12 col-md-4 last-block">
+								<div class="col-xsm-12 block-links first-block how-to-buy"
+									data-ng-class="{'block-links-open': accordFooterCtrl.activeFooterNumber === 2}">
+									<a href="https://static.jofogas.hu/img/OTP_vasarloi_tajekoztato.pdf" target="_blank">V�s�rl�i t�j�koztat�</a>
+									<a href="https://karrier.jofogas.hu" target="_blank">Karrier</a>
+									<a href="https://blog.jofogas.hu#xtor=AD-9319" target="_blank">Blog</a>
+								</div>
+								<div class="col-sm-6 col-md-12 first-block how-to-buy hidden-xs hidden-xsm hidden-sm" id="bank-cards">
+									<img loading="lazy" src="https://static.jofogas.hu/img/svg/barion-card-strip-intl.svg" alt="mastercard, visa, maestro, american express, otp"/>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid fix-fluid">
+			<div class="row footer-text first-block fix-row">
+				<div class="container-inner">
+					<div class="row">
+						<div class="col-xsm-12">
+						<object type="image/svg+xml" data="https://static.jofogas.hu/img/all_rights_logo.svg" class="jfg-svg-fix jofogas_logo_footer sm-hidden" tabindex="-1">
+							J�fog�s - T�bb mint 1,5 milli� term�k egy helyen
+						</object>
+							<p>Szerz�i jogi v�delem alatt �ll� oldal. A honlapon elhelyezett sz�veges �s k�pi anyagok, arculati �s tartalmi elemek (pl. bet�t�pusok, gombok, linkek, ikonok, sz�veg, k�p, grafika, logo stb.) felhaszn�l�sa, m�sol�sa, terjeszt�se, tov�bb�t�sa - ak�r r�szben, vagy eg�szben - kiz�r�lag a J�fog�s el�zetes, �r�sos beleegyez�s�vel lehets�ges.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	
+		
+		<div class="horizontal-line"></div>
+		<div class="container-fluid fix-fluid">
+			<div class="footer-text">
+				<div class="container-inner">
+					<div class="row">
+						<div class="col-xsm-12">
+							<p>
+								Aut�t v�s�roln�l vagy adn�l el? L�togasd meg aut�s oldalainkat:
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-text">
+				<div class="container-inner">
+					<div class="row">
+						<div class="col-xsm-12">
+							<p>
+								<a rel="nofollow" href="//www.hasznaltauto.hu/" target="_blank">hasznaltauto.hu</a> <span>|</span> <a rel="nofollow" href="//www.autoalkatresz.hu/" target="_blank">autoalkatresz.hu</a> <span>|</span> <a rel="nofollow" href="//www.autonavigator.hu/" target="_blank">autonavigator.hu</a> <span>|</span> <a rel="nofollow" href="//www.nagyhaszon.hu/" target="_blank">nagyhaszon.hu</a> <span>|</span> <a rel="nofollow" href="//www.garancialis.hu/" target="_blank">garancialis.hu</a> <span>|</span> <a rel="nofollow" href="//www.szalonauto.hu/" target="_blank">szalonauto.hu</a> <span>|</span> <a rel="nofollow" href="//katalogus.hasznaltauto.hu/" target="_blank">autokatalogus</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		<div class="horizontal-line"></div>
+		<div class="container-fluid fix-fluid mobile-filter-margin">
+			<div class="footer-text">
+				<div class="container-inner">
+					<div class="row">
+						<div class="col-xsm-12">
+							<p>
+								K�lf�ld�n v�s�roln�l vagy adn�l el? L�togasd meg a k�lf�ldi hirdet�si oldalainkat:
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-text">
+				<div class="container-inner">
+					<div class="row">
+						<div class="col-xsm-12">
+							<p>
+								<a rel="nofollow" href="//www.donedeal.ie/" target="_blank">donedeal.ie</a> <span>|</span> <a rel="nofollow" href="//www.kufar.by/" target="_blank">kufar.by</a> <span>|</span> <a rel="nofollow" href="//www.leboncoin.fr/" target="_blank">leboncoin.fr</a> <span>|</span> <a rel="nofollow" href="//www.segundamano.com.mx/" target="_blank">segundamano.com.mx</a> <span>|</span> <a rel="nofollow" href="//www.subito.it/" target="_blank">subito.it</a> <span>|</span> <a rel="nofollow" href="//www.milanuncios.com/" target="_blank">milanuncios.com</a> <span>|</span> <a rel="nofollow" href="//www.willhaben.at/" target="_blank">willhaben.at</a> <span>|</span> <a rel="nofollow" href="//www.Car4You.at/" target="_blank">Car4You.at</a> <span>|</span> <a rel="nofollow" href="//www.Coches.net/" target="_blank">Coches.net</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+				
+				
+					<script>
+	document.addEventListener('load', function(){
+		jQuery.cachedScript("//dkj5zvvq1r9a6.cloudfront.net/tt-2c58b3a68ac99f845a207a613ce245b3fd2dd839320355a9778e9319f96363b2.js");
+	});
+</script>
+
+				
+	</div>
+</footer>
+
+</div>
+<div class="page-content-placeholder"></div>
+
+
+<script>
+window.addEventListener('load', function(){
+angular.module('jofogas').config(['copyTempProvider', function (copyTempProvider) {
+copyTempProvider.insert({
+scope: 'jfgCampaigns',
+temps: {
+type: 'jfgCampaigns',
+campaigns: {
+elte:false,
+basket_page_campaign:false,
+vcode_gallery:false,
+black_day:false,
+black_friday:false
+}
+}
+});
+}]);
+});
+</script>
+
+<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+
+<script>
+window.addEventListener('load', function(){
+	angular.module('jofogas').run(["adverticumService", function (adverticumService) {
+
+		
+			
+					
+				
+				var meta = '<meta name="customtarget" content="dXNlcmRiX2lkPTY5JnppcGNvZGU9MTEzOCZnYWxsZXJ5PTEmaXNfYm94ZWQ9MCZ0aXRsZT1FbGFkJUMzJUIzJTIwaXBob25lJTIwLSUyME1hZ3lhcm9yc3olQzMlQTFnJTIwLSUyMEolQzMlQjNmb2clQzMlQTFzJnByaWNlPTEwMDAwMDAwMDAmY2F0ZWdvcnk9NTAyMSZ1c2VyZGJfaWQ9NDMmdGlwdXM9MiZtZWd5ZT1idWRhcGVzdA==" debug="userdb_id=69&zipcode=1138&gallery=1&is_boxed=0&title=Elad%C3%B3%20iphone%20-%20Magyarorsz%C3%A1g%20-%20J%C3%B3fog%C3%A1s&price=1000000000&category=5021&userdb_id=43&tipus=2&megye=budapest" /> ';
+					if ($('meta[name=customtarget]').replaceWith(meta).size() == 0) {
+						$('head').append(meta);
+					}
+
+					
+					if ( window.matchMedia( "(min-width: 992px)" ).matches ) {
+						var commonZones = {
+						// stat
+							
+								
+								   "stat":"3683470" , 
+							
+						// popup
+							
+								
+								   "popup":"3244593" , 
+							
+						// after_delete
+							
+								
+								   "after_delete":"4037988" , 
+							
+						// common_stat_zone_1
+							
+								
+								   "common_stat_zone_1":"5362152" , 
+							
+						// common_stat_zone_2
+							
+								
+								   "common_stat_zone_2":"5362153" , 
+							
+						// r_above
+							
+								
+								   "r_above":"3673652" , 
+							
+						// r_native
+							
+								
+								        
+							
+						// r_inter
+							
+								
+								   "r_inter":"3673722" , 
+							
+						// r_side
+							
+								
+								   "r_side":"5566672" , 
+							
+						// li_top
+							
+								
+								   "li_top":"4074524" , 
+							
+						// r_li_inter_HA
+							
+								
+								   "r_li_inter_HA":"4552824" , 
+							
+						// r_li_below_adsense
+							
+								
+								   "r_li_below_adsense":"4581686" , 
+							
+						// r_li_below_adsense_teszt
+							
+								
+								        
+							
+						// m_adsense_below_teszt
+							
+								
+								        
+							
+						// roadblock_3
+							
+								
+								   "roadblock_3":"5579753" , 
+							
+						// r_shop_afsu
+							
+								
+								        
+							
+						// common_stat_zone_3
+							
+								
+								        
+							
+						// common_stat_zone_4
+							
+								
+								        
+							
+						
+						};
+						adverticumService.setZones({type: 'common', newZones: commonZones});
+					} else {
+						var commonZones = {
+							// stat
+								
+									
+									   "stat":"3683470" , 
+								
+							// popup
+								
+									
+									   "popup":"3244593" , 
+								
+							// after_delete
+								
+									
+									   "after_delete":"4037988" , 
+								
+							// common_stat_zone_1
+								
+									
+									   "common_stat_zone_1":"5362152" , 
+								
+							// common_stat_zone_2
+								
+									
+									   "common_stat_zone_2":"5362153" , 
+								
+							// r_above
+								
+									
+									   "r_above":"3792151" , 
+								
+							// r_native
+								
+									
+									        
+								
+							// r_inter
+								
+									
+									   "r_inter":"3792011" , 
+								
+							// r_side
+								
+									
+									        
+								
+							// li_top
+								
+									
+									        
+								
+							// r_li_inter_HA
+								
+									
+									   "r_li_inter_HA":"4552828" , 
+								
+							// r_li_below_adsense
+								
+									
+									        
+								
+							// r_li_below_adsense_teszt
+								
+									
+									        
+								
+							// m_adsense_below_teszt
+								
+									
+									        
+								
+							// roadblock_3
+								
+									
+									   "roadblock_3":"5691439" , 
+								
+							// r_shop_afsu
+								
+									
+									        
+								
+							// common_stat_zone_3
+								
+									
+									        
+								
+							// common_stat_zone_4
+								
+									
+									        
+								
+							
+						};
+						adverticumService.setZones({type: 'common', newZones: commonZones});
+					}
+
+					var galleryZones = {
+					// stat
+						
+							
+							   "stat":"3683470" , 
+						
+					// popup
+						
+							
+							   "popup":"3244593" , 
+						
+					// after_delete
+						
+							
+							   "after_delete":"4037988" , 
+						
+					// common_stat_zone_1
+						
+							
+							   "common_stat_zone_1":"5362152" , 
+						
+					// common_stat_zone_2
+						
+							
+							   "common_stat_zone_2":"5362153" , 
+						
+					// r_above
+						
+							
+							        
+						
+					// r_native
+						
+							
+							        
+						
+					// r_inter
+						
+							
+							        
+						
+					// r_side
+						
+							
+							        
+						
+					// li_top
+						
+							
+							        
+						
+					// r_li_inter_HA
+						
+							
+							        
+						
+					// r_li_below_adsense
+						
+							
+							        
+						
+					// r_li_below_adsense_teszt
+						
+							
+							        
+						
+					// m_adsense_below_teszt
+						
+							
+							        
+						
+					// roadblock_3
+						
+							
+							        
+						
+					// r_shop_afsu
+						
+							
+							        
+						
+					// common_stat_zone_3
+						
+							
+							        
+						
+					// common_stat_zone_4
+						
+							
+							        
+						
+					
+					};
+					adverticumService.setZones({type: 'gallery', newZones: galleryZones});
+				
+			
+			$(window).load(function(){
+					(async() => {
+    					while(!(typeof window.Didomi === 'object' && window.Didomi !== null)) await new Promise(resolve => setTimeout(resolve, 1000));
+					})();
+                $.cachedScript( "//ad.adverticum.net/g3.js" ).done(function( script, textStatus ) {
+                    setTimeout( function() {
+                        adverticumService.start({type: 'common'});
+                    }, 10);
+                });
+			});
+		
+	}]);
+});
+</script>
+
+
+
+
+<script>window.addEventListener('load', function(){
+	var app = angular.module('jofogasSite',
+		[
+			'ngRoute',
+			
+			
+			
+			'multiBumpApp',
+			'ribbonApp',
+			'hfapp',
+			'jfgApp',
+			'jfg.component',
+			'socketService'
+		]
+	)
+	
+
+	
+
+.config(["jfgConfigProvider", function(jfgConfigProvider) {
+	jfgConfigProvider.apiKey("jofogas-web-eFRv9myucHjnXFbj");
+	jfgConfigProvider.jsVersion("21015092");
+	jfgConfigProvider.cookieDomain(".jofogas.hu");
+	jfgConfigProvider.url({"admin_ai": "https://www2.jofogas.hu","ai": "https://www2.jofogas.hu","aij": "https://www2.jofogas.hu","api": "https://api.jofogas.hu","apiv2": "https://apiv2.jofogas.hu","apiv3": "https://apiv3.jofogas.hu","ar": "https://www2.jofogas.hu","aw": "https://www2.jofogas.hu","bid": "https://www2.jofogas.hu","blocket": "https://www.jofogas.hu","blog": "https://blog.jofogas.hu","bmh_pages": "https://bmh.jofogas.hu/","braze_sync": "http://braze-sync.jofogas","career": "https://karrier.jofogas.hu","controlpanel": "https://www2.jofogas.hu","cookie_handling": "https://adatvedelem.jofogas.hu/sutikezeles/","docs": "https://docs.jofogas.hu","foxpost": "https://foxpost.jofogas.hu","general": "https://www.jofogas.hu","images": "https://img.jofogas.hu","images_local": "https://www1","images_rotate": "https://www2.jofogas.hu","importads": "https://www2.jofogas.hu","importservice": "https://www2.jofogas.hu","insurance": "https://www2.jofogas.hu","job": "https://allas.jofogas.hu","li": "https://www.jofogas.hu","message_api": "https://msg.jofogas.hu","message_proxy": "https://mcp.jofogas.hu/p","mobile": "http://m.jofogas.hu","mypages": "https://www2.jofogas.hu","pics": "https://www.jofogas.hu","privacy": "https://adatvedelem.jofogas.hu/adatvedelmi-tajekoztato/","privacy_api": "http://privacy-api.jofogas","rd": "https://www2.jofogas.hu","realestate": "https://ingatlan.jofogas.hu","redir": "https://www.jofogas.hu","safety": "https://ugyfelszolgalat.jofogas.hu/extra-szolgaltatasok/szabalysertes-jelentese/","scamp_api": "https://scamp-api.jofogas.hu","scamp_api_path": {"partner": "/partner","run_partner": "/run/partner/","state_partner": "/state/partner","sub_package": "/sub_package"},"searchparamsapi": "https://searchparams.jofogas.hu","seo": "https://hirdetesfeladas.jofogas.hu/","shop_api": "https://shop-api.jofogas.hu","shop_stat": "https://shop-stat.jofogas.hu/","shop_stat_path": {"summary": "/summary/monthly/"},"spw": "https://www2.jofogas.hu","static": "https://static.jofogas.hu","static_https": "https://static.jofogas.hu","store": "https://www2.jofogas.hu","support": "https://www2.jofogas.hu","templates": "https://www.jofogas.hu","terms": "https://docs.jofogas.hu/szabalyzat/","tiles_api": "https://tiles.jofogas.hu","tip": "https://www.jofogas.hu","touchstone": "https://suggested-ad.jofogas.hu/getAdBasedSuggestions","vehicle": "https://auto.jofogas.hu","vf": "https://www2.jofogas.hu","vfj": "https://www2.jofogas.hu","vi": "https://www.jofogas.hu","vid": "https://p.jofogas.hu","vij": "https://www.jofogas.hu","websocket": "https://socket.jofogas.hu"});
+	jfgConfigProvider.path({"about": "/rolunk","account": {"account": "/fiok","agent": "/fiok/referens","agents": "/fiok/referensek","creditmanagement": "/fiok/kreditkezeles","dataManagement": "/fiok/adatkezeles","deleteAccount": "/fiok/adataim-torlese","emailchange": "/fiok/email-csere","favads": "/fiok/kedvencek","favsearches": "/fiok/kedvenc_keresesek","login": "/fiok/belepes","logout": "/fiok/kilepes","messagecenter": "/fiok/postalada","myads": "/fiok/hirdeteseim","ordertracking": "/fiok/haztol-hazig/eladok","registration": "/fiok/regisztralas","settings": "/fiok/beallitasok"},"ai": "/ai","ca": "https://ajanlataink.jofogas.hu/","docs": {"accountoverview": "/irodai_fiok/"},"fsz": "/szabalyzat/","hh": "/haztol-hazig/","jobshop": "/allasok/","jobshops": "/kiemelt-partnereink","jtp": "/talalkozasipontok/","privacy": "https://adatvedelem.jofogas.hu/adatvedelmi-tajekoztato/","rea": "https://ajanlataink.jofogas.hu/realestate.html","safe_shopping": "/biztonsag","shop": "/bolt/","shops": "/boltok","sitemap": "/oldalterkep","subsites": {"1000": "ingatlan","2000": "auto","6000": "allas"}});
+	jfgConfigProvider.conf({urgentTypes: {"bombastic_price": {"darkColor": "#B65222","fontSize": "14","mainColor": "#FF7330","title": "Bomba aj�nlat!"},"bonuszbrigad": {"darkColor": "#7E0723","fontSize": "14","mainColor": "#B60B33","title": "A h�t fog�sa"},"good_buy": {"darkColor": "#B65222","fontSize": "14","mainColor": "#FF7330","title": "J� fog�s!"},"highlight": {"darkColor": "#B65222","fontSize": "14","mainColor": "#FF7330","title": "Kiemelt!"},"oc": {"darkColor": "#1C3956","fontSize": "12","mainColor": "#336699","title": "Csak a J�fog�son!"},"only_jofogas": {"darkColor": "#1C3956","fontSize": "12","mainColor": "#336699","title": "Csak a J�fog�son!"},"shop_offer": {"darkColor": "#7E0723","fontSize": "14","mainColor": "#B60B33","title": "Bolt aj�nlata"},"uniq": {"darkColor": "#B65222","fontSize": "14","mainColor": "#FF7330","title": "Egyedi aj�nlat!"},"urgent": {"darkColor": "#B65222","fontSize": "14","mainColor": "#FF7330","title": "S�rg�s!"}}});
+	jfgConfigProvider.conf({minImageDimensions: { width: 300, height: 300}});
+	jfgConfigProvider.conf({maxImageDimensions: { width: 1920, height: 1920}});
+	jfgConfigProvider.conf({reconsentDate: "2018-07-26 12:00:00"});
+	jfgConfigProvider.conf({termsDate: {"date": "2021. 12. 02","show": "1","suffix": "-�n"}});
+	jfgConfigProvider.conf({privacyDate: {"date": "2021. 12. 02","suffix": "-�n"}});
+	jfgConfigProvider.conf({isShopEnabled: 1});
+	jfgConfigProvider.conf({isCategoryHidden: [{"b2b": {"2000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"3000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"4000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"5000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"6000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"8000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"8060": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"9000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}}},"general": {"*": {"2020": {"value": "enabled:0,error:SHOP_AI_ERROR"},"2040": {"value": "enabled:0,error:SHOP_AI_ERROR"},"2081": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"1000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"6000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}}},"job": {"*": {"6040": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"1000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"2000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"3000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"4000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"5000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"8000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"8060": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"9000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}}},"keys": {"1": "shop_type","2": "main_category","3": "category"}}]});
+	jfgConfigProvider.conf({isD2DBuyerSideEnabled: 1});
+	jfgConfigProvider.conf({mfcHosts: {"general": "https://jfg-components.jofogas-pro.schip.io/"}});
+	jfgConfigProvider.conf({
+		braze: {
+			enabled: true,
+			apiKey: "2a8aa87e-bfc5-42f9-9840-504b0f8660d6",
+			logEnabled: false,
+			baseUrl: "https://sdk.fra-01.braze.eu/api/v3",
+			sessionLength: 1800,
+			safariWebsitePushId: "web.com.jofogas",
+			isAllUserTrackingEnabled: true
+		}
+	});
+	jfgConfigProvider.conf({
+		facebook: {
+			appId: 703720423863650,
+		}
+	});
+  
+  jfgConfigProvider.conf({utm: {"facebook_vi": {"utm_medium": "social","utm_source": "facebook"},"homsters_about_project": {"utm_campaign": "project_page","utm_content": "jofogas.hu_about_project_ad_page","utm_medium": "integration","utm_source": "jofogas.hu"},"homsters_list_item": {"utm_campaign": "project_page","utm_content": "jofogas.hu_search_results","utm_medium": "integration","utm_source": "jofogas.hu"},"homsters_searchbox": {"utm_campaign": "search_page","utm_content": "jofogas.hu_filter_mapping","utm_medium": "integration","utm_source": "jofogas.hu"},"homsters_similar_ad": {"utm_campaign": "project_page","utm_content": "jofogas.hu_similars_ad_page","utm_medium": "integration","utm_source": "jofogas.hu"},"homsters_tab": {"utm_campaign": "main-page","utm_content": "jofogas.hu_main_page","utm_medium": "integration","utm_source": "jofogas.hu"}}});
+  jfgConfigProvider.conf({picture_settings: {"confs": {"1": {"index_recommendations": {"value": "def:img_images"},"keys": {"1": "img_viewmode"},"li_default": {"value": "def:max_640,def:img_bigthumbs"},"li_toplistitem": {"value": "def:max_800,def:img_bigthumbs"},"re_li_map_preview": {"value": "def:max_640,def:img_bigthumbs"},"re_li_map_sidelist": {"value": "def:img_bigthumbs"},"vi_main": {"value": "def:img_hdimages"},"vi_recommendbox": {"value": "def:img_images"},"vi_small": {"value": "def:img_hdimages"}}},"defs": {"1": {"img_bigthumbs": {"value": "type:img,srcdir:bigthumbs"},"img_hdimages": {"value": "type:img,srcdir:hdimages"},"img_images": {"value": "type:img,srcdir:images"},"keys": {"1": "confs_def"},"max_640": {"value": "type:source,srcdir:images,media:\\(max\\-width\\: 640px\\)"},"max_800": {"value": "type:source,srcdir:images,media:\\(max\\-width\\: 800px\\)"},"max_992": {"value": "type:source,srcdir:images,media:\\(max\\-width\\: 992px\\)"},"min_840": {"value": "type:source,srcdir:images,media:\\(min\\-width\\: 840px\\)"}}}}});
+  jfgConfigProvider.conf({
+    shop: {
+      enabled: 1,
+      default_shop_avatar: "shop_avatar.png",
+      default_job_shop_avatar:"job_shop_avatar.png"
+    }
+  });
+
+  jfgConfigProvider.conf({
+    draftAdUrl: "https://draft.jofogas.hu",
+    textCategorySuggesterFlag: 1,
+    textCategorySuggesterUrl: "https://category-suggester-service.jofogas-pro.schip.io",
+  });
+}])
+
+	.config(["trustConfigProvider", function(trustConfigProvider) {
+		trustConfigProvider.url("https://profile-api.trust-pro.mpi-internal.com/");
+	}])
+
+	.controller('siteCtrl', ['$scope', '$sce', '$sanitize', 'modalService', 'auth', 'socketClient', 'saveSearchIcon', 'savedSearchIcon', function($scope, $sce, $sanitize, modalService, auth, socketClient, saveSearchIcon, savedSearchIcon) {
+
+		$scope.site = {
+			header: {
+				desktop_searchbox: true,
+				search: true,
+				ai: true,
+				menu: false,
+				bluebar: '',
+				searchBoxModalName: 'simpleSearchBox',
+				tool_include_url: 'template/account/header.simple-tool.html',
+				tool: true
+			},
+			sideMenu: {},
+			modal: {
+				open: modalService.openModal
+			},
+			search: {
+				text: ''
+			},
+			unread_count: 0
+		};
+		
+		$scope.saveSearchIcon = $sce.trustAsHtml(saveSearchIcon[0]);
+		$scope.savedSearchIcon = $sce.trustAsHtml(savedSearchIcon[0]);
+
+		auth.init();
+		if (auth.loggedIn()) {
+			var socketConnection = socketClient.connect(auth.getAccountToken(), function() {
+				//now ready to emit events..
+			});
+			if (socketConnection) {
+				socketClient.on("pingpong", function (data) {
+					socketClient.emit("pongping", data);
+				});
+				socketClient.on('test_message', function(data) {
+					socketClient.handleEvent({eventName: 'test_message', data: data});
+				});
+				socketClient.on('typing', function(data) {
+					socketClient.handleEvent({eventName: 'typing', data: data});
+				});
+				socketClient.on('new_message', function(data) {
+					socketClient.handleEvent({eventName: 'new_message', data: data});
+				});
+				socketClient.on('unread_count', function (UNREAD_COUNT_DATA) {
+					socketClient.handleEvent({eventName: 'unread_count', data: UNREAD_COUNT_DATA});
+				});
+				socketClient.on('phone_validation', function (PHONE_VALIDATION_DATA) {
+					socketClient.handleEvent({eventName: 'phone_validation', data: PHONE_VALIDATION_DATA});
+				});
+				socketClient.on('credit_upload', function (CREDIT_UPLOAD_DATA) {
+					socketClient.handleEvent({eventName: 'credit_upload', data: CREDIT_UPLOAD_DATA});
+				});
+				socketClient.on('credit_upload_for_later', function (CREDIT_UPLOAD_FOR_LATER_DATA) {
+					socketClient.handleEvent({eventName: 'credit_upload_for_later', data: CREDIT_UPLOAD_FOR_LATER_DATA});
+				});
+				socketClient.on('credit_pay', function (CREDIT_PAY_DATA) {
+					 socketClient.handleEvent({eventName: 'credit_pay', data: CREDIT_PAY_DATA});
+				});
+				socketClient.on('credit_transfer', function (CREDIT_TRANSFER_DATA) {
+					socketClient.handleEvent({eventName: 'credit_transfer', data: CREDIT_TRANSFER_DATA});
+				});
+				socketClient.on('B2B_AGENT_credit_pay', function (B2B_AGENT_CREDIT_PAY_DATA) {
+					socketClient.handleEvent({eventName: 'B2B_AGENT_credit_pay', data: B2B_AGENT_CREDIT_PAY_DATA});
+				});
+				socketClient.on('wallet_cancel', function (B2B_WALLET_CANCEL_DATA) {
+					socketClient.handleEvent({eventName: 'wallet_cancel', data: B2B_WALLET_CANCEL_DATA});
+				});
+				socketClient.on('payment_finished', function (payment_data) {
+					socketClient.handleEvent({eventName: 'payment_finished', data: payment_data});
+				});
+				socketClient.on('vcode_consumption', function (vcode_data) {
+					socketClient.handleEvent({eventName: 'vcode_consumption', data: vcode_data});
+				});
+			}
+		}
+	}]);
+	angular.module('jfg.account')
+	.provider("jfgAccount", [
+		function () {
+			'use strict';
+			var account = {};
+			account.loggedIn = false;
+			
+			this.set = function(data) {
+				angular.extend(account, data);
+			};
+			this.get = function(key) {
+				if (key) {
+					return account[key];
+				}
+				return account;
+			};
+			this.$get = ["$injector", function($injector){
+				return {
+					set:function(data){
+						angular.extend(account, data);
+						var rootScope = $injector.get('$rootScope');
+						rootScope.$emit('jfgAccount:changed', data);
+					},
+					get:function(key){
+						if (key) {
+							return account[key] || false;
+						}
+						return account;
+					}
+				}
+			}];
+		}
+	]);
+	angular.module('jofogas').config(['copyTempProvider', function (copyTempProvider) {
+		copyTempProvider.insert({
+			scope: 'subsite',
+			temps: {
+				subsite: 'general'
+			}
+		});
+	}]);
+	angular.module('jofogas').config(['copyTempProvider', function (copyTempProvider) {
+		copyTempProvider.insert({
+			scope: 'appl',
+			temps: {
+				appl: 'li'
+			}
+		});
+	}]);
+
+
+	angular.element(function(){
+		angular.bootstrap(document, ['jofogasSite']);
+	});
+});
+</script>
+</body>
+</html>
+
+
+<!-- dplex-www1.jofogas 49771 -->

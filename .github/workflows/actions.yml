@@ -1,4 +1,4 @@
-name: Test
+name: Test scrappers
 on: [push]
 jobs:
   Test:
