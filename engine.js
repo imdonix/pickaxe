@@ -4,7 +4,11 @@ import { getRandom } from "random-useragent"
 //Define an interface for the scrap Engines
 export default class Engine
 {
-    async scrap(settings) { return Promise.resolve()}
+    name() { throw Error("This is an instance of an abstract class.") }
+
+    async scrap(settings) { return Promise.reject() }
+
+    async offlineScrap(body, settings){ return Promise.reject() }
 
     // Return the default settings for the engine
     default() { return Object() }
@@ -14,8 +18,6 @@ export default class Engine
 
     // Return a Object of the expected fields of the resoult
     result() { return Object() }
-
-    name() { throw Error("This is an abstract object") }
 
     _init(settings) 
     {
