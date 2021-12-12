@@ -111,7 +111,7 @@ export default class JofogasEngine extends Engine
             const metaAttributes = itemRoot.querySelectorAll('meta').map(dom => dom.attributes)
 
             return {
-                id: this._toId(metaAttributes.find(prop => prop.itemprop == 'url').content),
+                id: this._uniqueItemID(this._toId(metaAttributes.find(prop => prop.itemprop == 'url').content)),
                 pos: parseInt(metaAttributes.find(prop => prop.itemprop == 'position').content),
                 name: metaAttributes.find(prop => prop.itemprop == 'name').content,
                 price: parseInt(itemRoot.querySelector('.price-value').attributes.content),

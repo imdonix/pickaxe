@@ -1,3 +1,4 @@
+import sha256 from "crypto-js/sha256.js"
 import { getRandom } from "random-useragent"
 
 //Define an interface for the scrap Engines
@@ -43,5 +44,10 @@ export default class Engine
     _randomBrowser()
     {
         return getRandom(ua =>  parseFloat(ua.browserVersion) >= 20 && ua.browserName === 'Firefox');
+    }
+
+    _uniqueItemID(id)
+    {
+        return `${this.name()}-${sha256(id).toString()}`
     }
 }

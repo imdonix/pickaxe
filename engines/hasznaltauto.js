@@ -78,7 +78,7 @@ export default class HasznaltAutoEngine extends Engine
     _parseItem(item)
     {
         return {
-            id : (item.querySelector('.img-responsive')?.parentNode?.getAttribute('href')),
+            id : this._uniqueItemID(item.querySelector('.img-responsive')?.parentNode?.getAttribute('href')),
             name :  item.querySelector('h3').firstChild.innerText,
             image: this._qualityImage(item.querySelector('.img-responsive')?.getAttribute('src')),
             url: item.querySelector('.img-responsive')?.parentNode?.getAttribute('href'),
