@@ -26,7 +26,7 @@ export default class HasznaltAutoEngine extends Engine
         return {
             key:         {type: "String",    required: true},
             depht:       {type: "Number",    required: false},
-            timeout:     {type: "Boolean",   required: false}
+            timeout:     {type: "Number",   required: false}
         }
     }
 
@@ -49,14 +49,14 @@ export default class HasznaltAutoEngine extends Engine
         }
     }
 
-    _processPage(settings, items, page)
+    async _processPage(settings, items, page)
     {
         return new Promise((res) => setTimeout(res, settings.timeout))
         .then(() => fetch(this._buildUrl(settings, page), { headers: { 'User-Agent' : this._randomBrowser() } }))
-        .then((res) => res.text())
-        .then((res) => this._parsePage(res))
-        .then((list) => this._populateItems(items, list))
-        .then((list) => list.length > 0 && settings.depth > page ? this._processPage(settings, items, ++page) : Promise.resolve(items))
+        .then(res => res.text())
+        .then(res => this._parsePage(res))
+        .then(list => this._populateItems(items, list))
+        .then(list => list.length > 0 && settings.depth > page ? this._processPage(settings, items, ++page) : Promise.resolve(items))
     }
 
 
@@ -70,7 +70,8 @@ export default class HasznaltAutoEngine extends Engine
             {
                 let item = this._parseItem(domItem)
                 itemList.push(item)
-            } catch(err){console.log(err)}
+            } 
+            catch(err){}
         }   
         return itemList 
     }
