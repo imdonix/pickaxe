@@ -1,3 +1,5 @@
+import { getRandom } from "random-useragent"
+
 //Define an interface for the scrap Engines
 export default class Engine
 {
@@ -11,6 +13,8 @@ export default class Engine
 
     // Return a Object of the expected fields of the resoult
     result() { return Object() }
+
+    name() { throw Error("This is an abstract object") }
 
     _init(settings) 
     {
@@ -34,5 +38,10 @@ export default class Engine
         } 
         
         return real
+    }
+
+    _randomBrowser()
+    {
+        return getRandom(ua =>  parseFloat(ua.browserVersion) >= 20 && ua.browserName === 'Firefox');
     }
 }
