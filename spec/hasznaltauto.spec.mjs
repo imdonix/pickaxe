@@ -30,7 +30,7 @@ describe("hasznaltauto scrapper", () =>
             url: 'https://www.hasznaltauto.hu/szemelyauto/ferrari/612/ferrari_612_scaglietti_automata_full_extra_konyakbarna_bor_elektr_ulesek_81e_km_markaszervizben_szervizelt-17683665',
             price: 21900000,
             ad: false
-          })
+        })
     })
 
     it("should scrap the online page", async () => 
