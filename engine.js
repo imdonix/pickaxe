@@ -6,9 +6,9 @@ export default class Engine
 {
     name() { throw Error("This is an instance of an abstract class.") }
 
-    async scrap(settings) { return Promise.reject() }
+    async scrap(settings) { return Promise.reject(Error("Not implemented")) }
 
-    async offlineScrap(body, settings){ return Promise.reject() }
+    async offlineScrap(body, settings){ return Promise.reject(Error("Not implemented")) }
 
     // Return the default settings for the engine
     default() { return Object() }
