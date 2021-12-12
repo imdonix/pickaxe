@@ -15,17 +15,17 @@ const settings = {
 
 
 
-describe("Jofogas scrapper", () => 
+describe("jofogas scrapper", () => 
 {
   let scrapper = new Jofogas()
 
-  it("should scrap online page", async () => 
+  it("should scrap the offline page", async () => 
   {
     let text = await readFile("resources/jofogas-iphone", 'utf-8')
     let items = await scrapper.offlineScrap(text, settings)
     expect(items.length).toBeGreaterThan(0)
     expect(items[0]).toEqual({
-      id: '123893965',
+      id: 'Jofogas-3ddea8d4d08ba161db4f55043eb794952f40894dad27bd84d8c69d313eb30f25',
       pos: 7,
       name: 'Iphone SE 2020 256 GB product red kitun� �llapotban elad�!',
       price: 125000,
@@ -36,7 +36,7 @@ describe("Jofogas scrapper", () =>
     })
   })
 
-  it("should scrap online page", async () => 
+  it("should scrap the online page", async () => 
   {
     let items = await scrapper.scrap(settings)
     expect(items.length).toBeGreaterThan(0)
